@@ -1,0 +1,1648 @@
+{
+    "errcode": 0,
+    "errmsg": "",
+    "data": {
+        "problems": [
+            {
+                "Body": "<p>中共广东省委书记张太雷和叶挺等领导的广州起义的时间是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>1928年11月12日</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>1926年5月8日</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1927年12月11日</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1929年10月1日</p>"
+                    }
+                ],
+                "Version": "1d343f9b84e44b069ad1126e02d1756c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994084,
+                "max_retry": 1,
+                "TemplateID": 20307927,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994084,
+                "ProblemType": 1,
+                "template_id": 20307927,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在1927年大革命失败以后,国民党代表的利益是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A",
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>工人阶级</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>买办性的大资产阶级</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>地主阶级</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>农民阶级</p>"
+                    }
+                ],
+                "Version": "04a3f650bcfa469d85a4391a5b921848",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994093,
+                "max_retry": 1,
+                "TemplateID": 20307937,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994093,
+                "ProblemType": 2,
+                "template_id": 20307937,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>大革命失败后,湘赣边界秋收起义的领导人是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>叶挺</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>周恩来</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>毛泽东</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>叶剑英</p>"
+                    }
+                ],
+                "Version": "a1ce989e33b3414d8fd507ecf26df696",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994082,
+                "max_retry": 1,
+                "TemplateID": 20307925,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994082,
+                "ProblemType": 1,
+                "template_id": 20307925,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 26,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>王明等人的“左”倾教条主义错误,对中国革命造成了极其严重的危害。其恶果是()</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3.5,
+                "index": 0,
+                "score": 3.5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>使红军在第五次反“围剿”作战中遭到失败,不得不长征</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>使国民党统治区党的力量几乎损失了100%</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>实行进攻中的冒险主义</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>使红军和根据地损失了90%</p></div>"
+                    }
+                ],
+                "Version": "4de00160396c4419b1bc7154c9fcb9a4",
+                "unionid": "1714373351351-60451",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994100,
+                "max_retry": 1,
+                "TemplateID": 20307945,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994100,
+                "ProblemType": 2,
+                "template_id": 20307945,
+                "awardingRule": 1,
+                "problemIndex": 26,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">[2018年考研政治真题]</span>中国共产党在领导人民革命的过程中，积累了丰富的经验，锻造出了有效的克敌制胜的武器，武装斗争就是中国共产党在中国革命中战胜敌人的重要法宝之一，其实质是( ) 。</p><p><br/></p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": false,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">无产阶级领导的反帝国主义战争</span></p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">资产阶级领导的反封建战争</span></p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">工农联合的反军阀战争</span></p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">工人阶级领导的农民战争</span></p></div>"
+                    }
+                ],
+                "Version": "84dbd79ebf6a449db909dad9841f8af4",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994105,
+                "max_retry": 1,
+                "TemplateID": 29986078,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 188994105,
+                "ProblemType": 1,
+                "template_id": 29986078,
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>毛泽东《星星之火,可以燎原》一文发表的时间是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>1930年1月</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1931年1月</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1933年1月</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1932年1月</p>"
+                    }
+                ],
+                "Version": "c1493872d04348a184f3e9921886cc1e",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994086,
+                "max_retry": 1,
+                "TemplateID": 20307929,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994086,
+                "ProblemType": 1,
+                "template_id": 20307929,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>毛泽东思想初步形成的标志是( ) 。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "isEdit": false,
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">新民主主义革命理论科学体系的形成</span></p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">农村包围城市、武装夺取政权理论的提出</span></p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">中共七大确立毛泽东思想为党的指导思想</span></p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">实事求是思想路线的提出</span></p></div>"
+                    }
+                ],
+                "Version": "9ba8a6142f0344ff9324c64576c73339",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994108,
+                "max_retry": 1,
+                "TemplateID": 29986111,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 188994108,
+                "ProblemType": 1,
+                "template_id": 29986111,
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>1931年2月，毛泽东进一步总结根据地土地革命的经验，要求各地各级工农民主政府发布公告，明确规定农民已经分得的田地归农民个人私有，可以自主租借买卖，别人不得侵犯。毛泽东和邓子恢等一起制定了土地革命中的阶级路线和土地分配方法。以下与毛泽东等制定的土地分配方法不符合的是( ) 。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "isEdit": false,
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">在原耕地的基础上实行抽肥补瘦</span></p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">按劳动力而不是按人口平分土地</span></p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">在原耕地的基础上实行抽多补少</span></p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">以乡为单位分配土地</span></p></div>"
+                    }
+                ],
+                "Version": "1621fd9cd0c54c5ba08ff4d101849869",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994107,
+                "max_retry": 1,
+                "TemplateID": 29986090,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 188994107,
+                "ProblemType": 1,
+                "template_id": 29986090,
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>大革命失败后,湘赣边界秋收起义的时间是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>1926年5月9日</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1927年12月11日</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1927年9月9日</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1927年8月1日</p>"
+                    }
+                ],
+                "Version": "8590c907a9004f1dac08680a446e2d3f",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994081,
+                "max_retry": 1,
+                "TemplateID": 20307924,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994081,
+                "ProblemType": 1,
+                "template_id": 20307924,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">[2011年考研政治真题]</span>1927年大革命失败后，党的工作重心开始转向农村，在农村建立革命根据地。农村革命根据地能够在中国长期存在和</p><p data-sider-select-id=\"4fb27cfc-c0c8-4652-8265-126b2abee093\">发展的根本原因是( ) 。</p><p><br/></p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "isEdit": false,
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">党的领导及其正确的政策</span></p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">相当力量正式红军的存在</span></p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">中国是一个政治、经济、文化发展极不平衡的半殖民地半封建的大国</span></p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">良好的群众基础和革命形势的继续向前发展</span></p></div>"
+                    }
+                ],
+                "Version": "b2518b9280c54b37a000664d777d1a93",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994104,
+                "max_retry": 1,
+                "TemplateID": 29986049,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 188994104,
+                "ProblemType": 1,
+                "template_id": 29986049,
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中华苏维埃第一次全国代表大会在江西省瑞金县举行的时间是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>1930年11月</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1931年11月</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>1929年11月</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1932年11月</p>"
+                    }
+                ],
+                "Version": "114f77c0a3764bfcafa9ed047b8f585a",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994090,
+                "max_retry": 1,
+                "TemplateID": 20307933,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994090,
+                "ProblemType": 1,
+                "template_id": 20307933,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>遵义会议的意义是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3.5,
+                "index": 0,
+                "score": 3.5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>挽救了中国工农红军、挽救了中国革命</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>成为中国共产党历史上一个生死攸关的转折点</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>开始确立以毛泽东为代表的正确路线在中共中央的领导地位</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>在极其危急的情况下挽救了中国共产党</p>"
+                    }
+                ],
+                "Version": "ad9ed94e38194e9f9c2907ec029ddb53",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994101,
+                "max_retry": 1,
+                "TemplateID": 20307946,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994101,
+                "ProblemType": 2,
+                "template_id": 20307946,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>红军长征,铸就了伟大的长征精神,其主要点是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3.5,
+                "index": 0,
+                "score": 3.5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>坚持独立自主、实事求是,一切从实际出发的精神</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>顾全大局、严守纪律、紧密团结的精神</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>为了救国救民不惜付出一切牺牲的精神</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>把全国人民和中华民族的根本利益看得高于一切</p>"
+                    }
+                ],
+                "Version": "ef7109ae548a46cba12bd6b49e50ebbf",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994103,
+                "max_retry": 1,
+                "TemplateID": 20307948,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994103,
+                "ProblemType": 2,
+                "template_id": 20307948,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p data-sider-select-id=\"e479556e-e49f-4a8c-acc7-49b19ca15c69\"><span style=\"text-wrap: wrap;\">[2013年考研政治真题]</span>1948年10月2日，刘少奇在同华北记者团谈话时，讲了一个希腊神话故事： 巨人安泰是地神之子，他在同对手搏斗时，只要身不离地，就能从大地母亲那里不断吸取力量，所向无敌；但是，只要他一离开大地，就会毫无力量。他的对手赫拉克勒斯发现了他的这一特征，在一次搏斗中突然把他举到半空中将他扼死。刘少奇借用这一神话故事强调中国共产党始终要( ) 。</p><p data-sider-select-id=\"fa39688e-abce-49f0-b877-a309effcc256\"><br/></p><p><br/></p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": false,
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">保持党的方针政策的正确</span></p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">保持对敌人的高度警惕</span></p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">坚持理论联系实际</span></p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">保持同人民群众的血肉联系</span></p></div>"
+                    }
+                ],
+                "Version": "f38e1bb6fd7d45228ed290089b70bdaa",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994106,
+                "max_retry": 1,
+                "TemplateID": 29986083,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 188994106,
+                "ProblemType": 1,
+                "template_id": 29986083,
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>从1930年10月到1931年7月,红一方面军连续粉碎国民党军队三次“围剿”而贯彻的积极防御方针是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3.5,
+                "index": 0,
+                "score": 3.5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>打其虚弱</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>积极冒进</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>诱敌深入</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>避敌主力</p>"
+                    }
+                ],
+                "Version": "b5341eeae4dd4c98a05c41dfdd061b73",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994098,
+                "max_retry": 1,
+                "TemplateID": 20307943,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994098,
+                "ProblemType": 2,
+                "template_id": 20307943,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>从1927年7月大革命失败到1935年1月遵义会议召开,“左”倾错误先后三次在党中央的领导机关取得了统治地位。它们是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3.5,
+                "index": 0,
+                "score": 3.5,
+                "Answer": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>瞿秋白的“左”倾盲动主义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>李立三的“左”倾冒险主义</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>王明的“左”倾教条主义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>陈独秀“左”倾机会主义</p>"
+                    }
+                ],
+                "Version": "1508abf78f59468b9736b9bc5e4be1f9",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994099,
+                "max_retry": 1,
+                "TemplateID": 20307944,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994099,
+                "ProblemType": 2,
+                "template_id": 20307944,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1927年8月1日,中共在南昌举行起义,其前敌委员会的书记是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>朱德</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>毛泽东</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>贺龙</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>周恩来</p>"
+                    }
+                ],
+                "Version": "c7862be1b7c24f58920460974922ba17",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994078,
+                "max_retry": 1,
+                "TemplateID": 20307921,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994078,
+                "ProblemType": 1,
+                "template_id": 20307921,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党独立领导革命战争和创建人民军队的开始是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>南昌起义</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>广州起义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>八七会议</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>秋收起义</p>"
+                    }
+                ],
+                "Version": "2c4ddce1abe64608b08db658264c90fe",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994079,
+                "max_retry": 1,
+                "TemplateID": 20307922,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994079,
+                "ProblemType": 1,
+                "template_id": 20307922,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1936年10月,长征胜利会师的红军三大主力是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3.5,
+                "index": 0,
+                "score": 3.5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>红三方面军</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>红四方面军</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>红二方面军</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>红一方面军</p>"
+                    }
+                ],
+                "Version": "399a7b35843c4ba4942ea549f4d6a3c8",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994102,
+                "max_retry": 1,
+                "TemplateID": 20307947,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994102,
+                "ProblemType": 2,
+                "template_id": 20307947,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>打响武装反抗国民党反动派第一枪的起义是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>秋收起义</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>南昌起义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>上海工人武装起义</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>武昌起义</p>"
+                    }
+                ],
+                "Version": "ba56f23ed7f7462e9f9098ae4851b1e3",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994080,
+                "max_retry": 1,
+                "TemplateID": 20307923,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994080,
+                "ProblemType": 1,
+                "template_id": 20307923,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>国民党政府实行一党专政的军事独裁统治的方法是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>厉行文化专制主义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>建立了庞大的全国性特务系统</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>大力推行保甲制度</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>建立了庞大的军队</p>"
+                    }
+                ],
+                "Version": "4bef07c5c68544b19486781ff97b68da",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994094,
+                "max_retry": 1,
+                "TemplateID": 20307938,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994094,
+                "ProblemType": 2,
+                "template_id": 20307938,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在革命的危急关头,1927年7月中旬,中共中央临时政治局常委会决定的三件大事是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3.5,
+                "index": 0,
+                "score": 3.5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>继续同国民党合作</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>组织湘、鄂、赣、粤四省的农民,在秋收季节举行暴动</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>将党所掌握和影响的部队向南昌集中,准备起义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>召集中央会议,讨论和决定新时期的方针和政策</p>"
+                    }
+                ],
+                "Version": "349c14a3896a4edeb75b019946128c85",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994096,
+                "max_retry": 1,
+                "TemplateID": 20307940,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994096,
+                "ProblemType": 2,
+                "template_id": 20307940,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1928年12月29日发出通告,宣布“遵守三民主义,服从国民政府,改易旗帜”的人是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>张学良</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>李宗仁</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>冯玉祥</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>阎锡山</p>"
+                    }
+                ],
+                "Version": "0a62a6aea2264ea7ba4a933bed022786",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994075,
+                "max_retry": 1,
+                "TemplateID": 20307916,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994075,
+                "ProblemType": 1,
+                "template_id": 20307916,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1931年1月至1935年1月的第三次“左”倾教条主义错误的代表是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>瞿秋白</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>张国焘</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>李立三</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>王明</p>"
+                    }
+                ],
+                "Version": "64adcc1190d2418b8a0076729a14fad3",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994091,
+                "max_retry": 1,
+                "TemplateID": 20307934,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994091,
+                "ProblemType": 1,
+                "template_id": 20307934,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>大革命失败后的艰难环境是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>白色恐怖笼罩着全国城乡</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>中国社会的半殖民地半封建性质没有改变</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>反革命力量大大超过了有组织的革命力量</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国革命转入低潮</p>"
+                    }
+                ],
+                "Version": "08d7b8e306f34c1b8f7ad752128a0c31",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994095,
+                "max_retry": 1,
+                "TemplateID": 20307939,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994095,
+                "ProblemType": 2,
+                "template_id": 20307939,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>国民党政府统治下的中国( ) 。</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3.5,
+                "index": 0,
+                "score": 3.5,
+                "Answer": [
+                    "C",
+                    "B",
+                    "A"
+                ],
+                "Remark": "",
+                "isEdit": false,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">是一个处在帝国主义和封建主义统治之下的半殖民地半封建社会</span></p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">革命的性质依然是反帝反封建的资产阶级民主革命</span></p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">革命的对象依然是帝国主义和封建主义</span></p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">迫切需要进行无产阶级社会主义革命</span></p></div>"
+                    }
+                ],
+                "Version": "de09af24617c4e9f85c06b2a44ec9ea2",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994110,
+                "max_retry": 1,
+                "TemplateID": 29986132,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 188994110,
+                "ProblemType": 2,
+                "template_id": 29986132,
+                "awardingRule": 1,
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>开始确立以毛泽东为代表的马克思主义的正确路线在中共中央的领导地位的重要会议是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>瓦窑堡会议</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中共七大</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>八七会议</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>遵义会议</p>"
+                    }
+                ],
+                "Version": "4091ffe91705404db24db3a53a8258bf",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994092,
+                "max_retry": 1,
+                "TemplateID": 20307935,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994092,
+                "ProblemType": 1,
+                "template_id": 20307935,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党开始从大革命失败到土地革命战争兴起的转折是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>八七会议的召开</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>工农武装割据思想的提出</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>井冈山革命根据地的创立</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>南昌起义</p>"
+                    }
+                ],
+                "Version": "cb76736b86e74098bdab12c9468a2a5b",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994077,
+                "max_retry": 1,
+                "TemplateID": 20307919,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994077,
+                "ProblemType": 1,
+                "template_id": 20307919,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">[2019年考研政治真题]</span>1927年10月，毛泽东率领湘赣边界秋收起义的工农革命军，开始创建以宁冈为中心的井冈山农村革命根据地，走农村包围城市、武装夺取政权的革命新道路。毛泽东确定在井冈山建立根据地，是因为这个地区( ) 。</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3.5,
+                "index": 0,
+                "score": 3.5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": false,
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">易于部队筹款筹粮</span></p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">地势险要且易守难攻</span></p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">敌人的统治力量比较薄弱</span></p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">有较好的群众基础</span></p></div>"
+                    }
+                ],
+                "Version": "f04015b0d939411a90c3c22338255c60",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994109,
+                "max_retry": 1,
+                "TemplateID": 29986124,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 188994109,
+                "ProblemType": 2,
+                "template_id": 29986124,
+                "awardingRule": 1,
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1931年11月,中华苏维埃第一次全国代表大会在江西省瑞金县叶坪村举行,成立了中华苏维埃共和国临时中央政府,当选主席的是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>周恩来</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>毛泽东</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>贺龙</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>朱德</p>"
+                    }
+                ],
+                "Version": "14a794ab47ff4209976c40ab8f8ec2a1",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994089,
+                "max_retry": 1,
+                "TemplateID": 20307932,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994089,
+                "ProblemType": 1,
+                "template_id": 20307932,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1927年12月11日,领导广州起义的主要领导者是()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3.5,
+                "index": 0,
+                "score": 3.5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>张太雷</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>叶挺</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>叶剑英</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>刘伯承</p>"
+                    }
+                ],
+                "Version": "94940183b17e498eaf40dee998ced094",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994097,
+                "max_retry": 1,
+                "TemplateID": 20307942,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994097,
+                "ProblemType": 2,
+                "template_id": 20307942,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1927年8月7日,中共中央秘密召开紧急会议的地址是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>广州</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>上海</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>汉口</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>南昌</p>"
+                    }
+                ],
+                "Version": "0df015057f50413f822fd063c5fe2f5e",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994076,
+                "max_retry": 1,
+                "TemplateID": 20307918,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994076,
+                "ProblemType": 1,
+                "template_id": 20307918,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>大革命失败后,公开打出“工农革命军”旗帜的是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>南昌起义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>广州起义</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>百色起义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>秋收起义</p>"
+                    }
+                ],
+                "Version": "5dd7a8865a8d46c3908316fce1e8d7d4",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994083,
+                "max_retry": 1,
+                "TemplateID": 20307926,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994083,
+                "ProblemType": 1,
+                "template_id": 20307926,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>毛泽东在《反对本本主义》一文发表的时间是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>1933年9月</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1932年7月</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1931年6月</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>1930年5月</p>"
+                    }
+                ],
+                "Version": "675e95fc0f9c41dcb5025220d59a079d",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994087,
+                "max_retry": 1,
+                "TemplateID": 20307930,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994087,
+                "ProblemType": 1,
+                "template_id": 20307930,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>农村包围城市、武装夺取政权这条革命新道路的开辟,是中国共产党集体智慧的结晶,而其中杰出的代表是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>博古</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>陈独秀</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>毛泽东</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>王明</p>"
+                    }
+                ],
+                "Version": "c547a282506e405fac17b44ae69cb932",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994085,
+                "max_retry": 1,
+                "TemplateID": 20307928,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994085,
+                "ProblemType": 1,
+                "template_id": 20307928,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>毛泽东提出“没有调查,没有发言权“的重要思想的文章是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>《新民主主义论》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《反对本本主义》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《井冈山的斗争》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《实践论》</p>"
+                    }
+                ],
+                "Version": "e1cc8b5763e14d329442b34f839dac8f",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188994088,
+                "max_retry": 1,
+                "TemplateID": 20307931,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188994088,
+                "ProblemType": 1,
+                "template_id": 20307931,
+                "scope_of_question_answer": 0
+            }
+        ],
+        "has_problem_dict": false,
+        "font": "",
+        "title": "第七专题"
+    }
+}

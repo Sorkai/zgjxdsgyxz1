@@ -1,0 +1,328 @@
+{
+    "errcode": 0,
+    "errmsg": "",
+    "data": {
+        "problem_results": [
+            {
+                "problem_id": 185703806,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "C"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "C"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703809,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "B"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "B"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703805,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "A"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "A"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703812,
+                "problem_type": 2,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "C",
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "grade": 8.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703808,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "B"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "B"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703810,
+                "problem_type": 2,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "grade": 8.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703804,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "A"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "A"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703811,
+                "problem_type": 2,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "B",
+                    "A",
+                    "D",
+                    "C"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "grade": 8.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703803,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "D"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "D"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703802,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "B"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "B"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703813,
+                "problem_type": 2,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "grade": 8.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703807,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "D"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "D"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703800,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "C"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "C"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703801,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "D"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "D"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703798,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "A"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "A"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703797,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "B"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "B"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703799,
+                "problem_type": 1,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "D"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "D"
+                ],
+                "grade": 4.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            },
+            {
+                "problem_id": 185703814,
+                "problem_type": 2,
+                "correct": true,
+                "finished": true,
+                "result": [
+                    "B",
+                    "D",
+                    "C"
+                ],
+                "result_type": 1,
+                "answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "grade": 8.0,
+                "finally_answer_problem_time": null,
+                "answer_problem_record_list": []
+            }
+        ],
+        "grade": 92.0,
+        "duration": 193,
+        "create_time": "2026-04-03 16:42:27",
+        "start_time": null,
+        "auto_submit": false,
+        "submit_time": "2026-04-03 16:45:41",
+        "IP_list": [],
+        "role": 0
+    }
+}

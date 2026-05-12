@@ -1,0 +1,1120 @@
+{
+    "errcode": 0,
+    "errmsg": "",
+    "data": {
+        "problems": [
+            {
+                "Body": "<p>孙中山为了防止袁世凯专制而提出的条件有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>清帝退位</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>以南京为首都</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>遵守约法</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>总统在南京就职</p>"
+                    }
+                ],
+                "Version": "6c030f42def945cab3b8acdd19e79a08",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711660,
+                "max_retry": 1,
+                "TemplateID": 19863578,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711660,
+                "ProblemType": 2,
+                "template_id": 19863578,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>北洋军阀政府代表的是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>工农利益</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>大地主和买办资产阶级</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>小资产阶级知识分子利益</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>民族资产阶级</p>"
+                    }
+                ],
+                "Version": "274460b0e9704a5c88a5938fe9ff46ec",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711651,
+                "max_retry": 1,
+                "TemplateID": 10143868,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711651,
+                "ProblemType": 1,
+                "template_id": 10143868,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1904年,孙中山指出只有推翻清政府,建立“中华民国”,才能真正解决中国问题的文章是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>《驳康有为论革命书》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《警世钟》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《中国问题的真解决》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《革命军》</p>"
+                    }
+                ],
+                "Version": "42acf3f61b1347acaabac3b9fb5a5614",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711648,
+                "max_retry": 1,
+                "TemplateID": 10143865,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711648,
+                "ProblemType": 1,
+                "template_id": 10143865,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>孙中山所说的政治革命是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>民族主义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>民权主义</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>平均地权</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>民生主义</p>"
+                    }
+                ],
+                "Version": "f539b3a5b8be490dab4aabb90f53b4b3",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711653,
+                "max_retry": 1,
+                "TemplateID": 10143871,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711653,
+                "ProblemType": 1,
+                "template_id": 10143871,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国同盟会的政治纲领包括()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>创立民国</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>驱逐鞑虏,恢复中华</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>平均地权</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>节制资本</p>"
+                    }
+                ],
+                "Version": "fdbafe62b3074cdabd910baea61333e3",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711658,
+                "max_retry": 1,
+                "TemplateID": 19863576,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711658,
+                "ProblemType": 2,
+                "template_id": 19863576,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>辛亥革命的高潮是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>中华民国成立</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>黄花岗起义</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>保路运动</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>武昌起义</p>"
+                    }
+                ],
+                "Version": "1dd55cadf0b84c98b77a11fdceee04d2",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711650,
+                "max_retry": 1,
+                "TemplateID": 10143867,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711650,
+                "ProblemType": 1,
+                "template_id": 10143867,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 7,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>同盟会成立后,将()作为自己的机关报.</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>《万国公报》</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>《新民丛报》</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>《顺天时报》</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>《民报》</p></div>"
+                    }
+                ],
+                "Version": "e063b850fbe041beae29a26ba052c561",
+                "unionid": "1730444551506-50881",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711647,
+                "max_retry": 1,
+                "TemplateID": 19863573,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711647,
+                "ProblemType": 1,
+                "answerIndex": 0,
+                "template_id": 19863573,
+                "problemIndex": 7,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>资产阶级革命派的阶级基础是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>工人阶级</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>大地主大资产阶级</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>民族资产阶级</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>农民阶级</p>"
+                    }
+                ],
+                "Version": "ad67c457440945c5bb9504b5e226aa69",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711646,
+                "max_retry": 1,
+                "TemplateID": 10143863,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711646,
+                "ProblemType": 1,
+                "template_id": 10143863,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1894年,孙中山在美国的檀香山创立了中国第一个革命团体()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>华兴会</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>兴中会</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>同盟会</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>光复会</p>"
+                    }
+                ],
+                "Version": "9d1c46e087d64f8d89ff9f330a332327",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711643,
+                "max_retry": 1,
+                "TemplateID": 10143861,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711643,
+                "ProblemType": 1,
+                "template_id": 10143861,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国历史上第一部具有资产阶级共和国宪法性质的法典是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《中华民国临时约法》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《中华民国约法》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《钦定宪法大纲》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《中华民国宪法》</p>"
+                    }
+                ],
+                "Version": "121943d8c0f0495d9bfa0450dc768436",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711644,
+                "max_retry": 1,
+                "TemplateID": 10143862,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711644,
+                "ProblemType": 1,
+                "template_id": 10143862,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>革命派和维新派论战的问题有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>要不要废八股、改科举和兴学堂</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>要不要进行社会革命</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>要不要以革命的手段推翻清政府</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>要不要推翻帝制,实行共和</p>"
+                    }
+                ],
+                "Version": "b384b7227c9949fa892bdcb1f6e5ce6e",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711659,
+                "max_retry": 1,
+                "TemplateID": 19863577,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711659,
+                "ProblemType": 2,
+                "template_id": 19863577,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 1,
+                "Body": "<p>20世纪中国的第一次历史性巨变是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "valid": false,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>戊戌变法</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>太平天国农民战争</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>辛亥革命</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>义和团运动</p>"
+                    }
+                ],
+                "Version": "fd5be47f94284ccf8a380c4090795e8c",
+                "unionid": "1679923581700-31349",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711641,
+                "max_retry": 1,
+                "TemplateID": 19863587,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711641,
+                "ProblemType": 1,
+                "answerIndex": 1,
+                "template_id": 19863587,
+                "problemIndex": 1,
+                "error_message": "答案有缺失",
+                "review_detail": {},
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1913年3月被袁世凯杀害的是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>黄兴</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>邹容</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>宋教仁</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>蔡元培</p>"
+                    }
+                ],
+                "Version": "a32addd76bed4f7a97e2fe4d30a20048",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711652,
+                "max_retry": 1,
+                "TemplateID": 10143870,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711652,
+                "ProblemType": 1,
+                "template_id": 10143870,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1911年武昌起义的具体组织者和发动者是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "B",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>华兴会</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>文学社</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>兴中会</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>共进会</p>"
+                    }
+                ],
+                "Version": "936b94b4e7d141248d26d84387844935",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711661,
+                "max_retry": 1,
+                "TemplateID": 19863579,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711661,
+                "ProblemType": 2,
+                "template_id": 19863579,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 24,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p><strong><span style=\"font-size:16px;font-family:宋体\">随着民主革命思想的传播，涌现出一批民主革命的思想家和宣传家，他们主要是（）。</span></strong></p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><strong><span style=\"font-size:16px;font-family:宋体\">邹容&nbsp;</span></strong></p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><strong><span style=\"font-size:16px;font-family:宋体\">鲁迅</span></strong></p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><strong><span style=\"font-size:16px;font-family:宋体\">陈天华</span></strong></p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><strong><span style=\"font-size:16px;font-family:宋体\">章炳麟</span></strong></p></div>"
+                    }
+                ],
+                "Version": "f15d1990972043d1a2e02c49f9e740cf",
+                "unionid": "1730444551506-2497",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711664,
+                "max_retry": 1,
+                "TemplateID": 29353740,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 184711664,
+                "ProblemType": 2,
+                "template_id": 29353740,
+                "awardingRule": 1,
+                "problemIndex": 24,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国近代历史上一个比较完整的资产阶级民主革命纲领是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>中国国民党章程</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>三民主义学说</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>兴中会的革命纲领</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>钦定宪法大纲</p>"
+                    }
+                ],
+                "Version": "4689835a03af460bbf9a7ca143672aab",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711649,
+                "max_retry": 1,
+                "TemplateID": 19863574,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711649,
+                "ProblemType": 1,
+                "template_id": 19863574,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>资产阶级革命派的骨干力量是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>资产阶级知识分子</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>工农阶级</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>地主阶级</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>小资产阶级知识分子</p>"
+                    }
+                ],
+                "Version": "90d477943b954529b35ce328ab0d91a9",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711657,
+                "max_retry": 1,
+                "TemplateID": 19863575,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711657,
+                "ProblemType": 2,
+                "template_id": 19863575,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>资产阶级革命派传播革命思想的代表著作有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>《革命军》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《警世钟》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《驳康有为论革命书》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《猛回头》</p>"
+                    }
+                ],
+                "Version": "316447c69a3d4e23a2f5e6491a9959f5",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711662,
+                "max_retry": 1,
+                "TemplateID": 19863580,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711662,
+                "ProblemType": 2,
+                "template_id": 19863580,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>标志着以慈溪太后为首的清政府甘当“洋人的朝廷”的事件是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>《辛丑条约》的签订</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>镇压义和团运动</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>戌政变</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>八国联军入侵北京</p>"
+                    }
+                ],
+                "Version": "cc12905c25664e14927070f921243875",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711656,
+                "max_retry": 1,
+                "TemplateID": 10143876,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711656,
+                "ProblemType": 1,
+                "template_id": 10143876,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>清政府于1906年宣布“预备仿行宪政”,并于1908年颁布了()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《钦定宪法大纲》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《明定国是》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《中华民国临时约法》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《商律》</p>"
+                    }
+                ],
+                "Version": "81b4bc582ba1430eabe18342e92dea38",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711655,
+                "max_retry": 1,
+                "TemplateID": 10143875,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711655,
+                "ProblemType": 1,
+                "template_id": 10143875,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1905年孙中山在《民报》发刊词中,将同盟会纲领概括为()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>民治主义</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>民族主义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>民生主义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>民权主义</p>"
+                    }
+                ],
+                "Version": "1c449ae653c84fc4838d0d863958f749",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711663,
+                "max_retry": 1,
+                "TemplateID": 19863581,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711663,
+                "ProblemType": 2,
+                "template_id": 19863581,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在中国延续了两千多年的封建帝制覆灭的标志是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>1911年10月10日武昌起义</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1912年3月10日袁世凯在北京就职</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1912年2月12日清帝退位</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1912年1月1日中华民国成立</p>"
+                    }
+                ],
+                "Version": "e120d00819db40d1bb5a84f183399272",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711654,
+                "max_retry": 1,
+                "TemplateID": 10143874,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711654,
+                "ProblemType": 1,
+                "template_id": 10143874,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 5,
+                "Body": "<p>中国一次比较完全意义上的资产阶级民主革命是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "valid": false,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>洋务运动</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>辛亥革命</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>戊戌变法</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>太平天国农民战争</p>"
+                    }
+                ],
+                "Version": "d9671a2c5db0407a96997152f99e4966",
+                "unionid": "1679923581700-35852",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711645,
+                "max_retry": 1,
+                "showScore": true,
+                "TemplateID": 19863591,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711645,
+                "remarkFold": true,
+                "ProblemType": 1,
+                "answerIndex": 0,
+                "complexBody": "\n      <span class=\"font16 color3 font-weight500 item__complex-body-wrapper__pre\">\n      5.（单选题）\n      </span>\n      <p>中国一次比较完全意义上的资产阶级民主革命是()</p>\n    ",
+                "template_id": 19863591,
+                "problemIndex": 5,
+                "error_message": "答案有缺失",
+                "review_detail": {},
+                "isShowGrayArea": false,
+                "scope_of_question_answer": 0,
+                "showFooterAddExercisePopover": false
+            },
+            {
+                "Body": "<p>中国近代第一个领导资产阶级革命的全国性政党是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>中国同盟会</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>兴中会</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>光复会</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>国民党</p>"
+                    }
+                ],
+                "Version": "4385b7f133244d2ca93818fa310bc8da",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 184711642,
+                "max_retry": 1,
+                "TemplateID": 10143860,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 184711642,
+                "ProblemType": 1,
+                "template_id": 10143860,
+                "scope_of_question_answer": 0
+            }
+        ],
+        "has_problem_dict": false,
+        "font": "",
+        "title": "第四专题 "
+    }
+}

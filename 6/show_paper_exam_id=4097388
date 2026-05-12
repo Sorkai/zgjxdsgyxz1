@@ -1,0 +1,1625 @@
+{
+    "errcode": 0,
+    "errmsg": "",
+    "data": {
+        "problems": [
+            {
+                "key": 37,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>1924至1927年的大革命,规模宏伟,内涵丰富。与辛亥革命相比较,其不同点在于()</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>它广泛而深刻地发动了工农群众</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>它的革命对象是帝国主义和封建军阀</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>它的主要斗争形式是武装斗争</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>它是在以国共合作为基础的统一战线的组织形式下进行的</p></div>"
+                    }
+                ],
+                "Version": "c2fd50a04d5441a99afc21abe5337ab1",
+                "unionid": "1713938347135-51880",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865792,
+                "max_retry": 1,
+                "TemplateID": 29830099,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865792,
+                "ProblemType": 2,
+                "template_id": 29830099,
+                "awardingRule": 1,
+                "problemIndex": 37,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党一经成立,就把实现()作为党的最高理想和最终目标。()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>共产主义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>国家富强</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>共同富裕</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>人民解放</p>"
+                    }
+                ],
+                "Version": "6a7f3814e01147f4a20221b2a1d3c813",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865777,
+                "max_retry": 1,
+                "TemplateID": 20043053,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865777,
+                "ProblemType": 1,
+                "template_id": 20043053,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党成立的历史特点有()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>是一个区别于第二国际旧式社会改良党的新型工人阶级革命政党</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>它成立于俄国十月革命取得胜利、第二国际修正主义遭到破产之后</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>一开始就是一个以马克思列宁主义理论为基础的党</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>它是在半殖民地半封建中国的工人运动的基础上产生的</p>"
+                    }
+                ],
+                "Version": "530b04c861c541b38f91111baabbf884",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865793,
+                "max_retry": 1,
+                "TemplateID": 29830100,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865793,
+                "ProblemType": 2,
+                "template_id": 29830100,
+                "awardingRule": 1,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党一经成立,第一次提出了()民主革命纲领,为中国人民指明了斗争的目标。()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>反帝</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>反殖民主义</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>反帝反封建</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>反封建</p>"
+                    }
+                ],
+                "Version": "2c9deab920bb4cf59fa3e2ebb5a41083",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865789,
+                "max_retry": 1,
+                "TemplateID": 29830096,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865789,
+                "ProblemType": 1,
+                "template_id": 29830096,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 6,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>大革命失败给中国共产党的最深刻的经验教训是必须()</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>提出能团结多数的革命口号</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>无产阶级必须掌握革命领导权和革命武装</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>和农民结成巩固的工农联盟</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>警惕统一战线内部的野心家</p></div>"
+                    }
+                ],
+                "Version": "d6ce34e048d4484a8f6999a060d9d8fa",
+                "unionid": "1730607205676-63114",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865767,
+                "max_retry": 1,
+                "TemplateID": 20043039,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865767,
+                "ProblemType": 1,
+                "answerIndex": 3,
+                "template_id": 20043039,
+                "problemIndex": 6,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 32,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>1924年至1927年的大革命其直接斗争目标是()</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>反对帝国主义</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>没收地主土地</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>打倒国民党反动派</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>推翻北洋军阀统治</p></div>"
+                    }
+                ],
+                "Version": "de20854b76a14f68abdd2f6e29e5552d",
+                "unionid": "1713937795966-28223",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865787,
+                "a4Preview": {
+                    "el": null,
+                    "btnEl": null,
+                    "visible": false,
+                    "maxHeight": "max-content"
+                },
+                "max_retry": 1,
+                "showScore": true,
+                "TemplateID": 29830094,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865787,
+                "remarkFold": true,
+                "ProblemType": 1,
+                "answerIndex": 2,
+                "complexBody": "\n      <span class=\"font16 color3 font-weight500 item__complex-body-wrapper__pre\">\n      33.（单选题）\n      </span>\n      <p>1925年至1927年的大革命其直接斗争目标是()\n\n</p>\n    ",
+                "template_id": 29830094,
+                "problemIndex": 32,
+                "review_detail": {},
+                "isShowGrayArea": false,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0,
+                "showFooterAddExercisePopover": false
+            },
+            {
+                "Body": "<p>中国共产党能够明确提出反帝反封建的民主革命纲领,最主要的原因是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>党具有广泛的群众基础</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>共产国际的支持</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中国共产党正确分析了国情</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>工人运动遭受挫折</p>"
+                    }
+                ],
+                "Version": "219a8590144146b8af0c05c80d23d8b8",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865772,
+                "max_retry": 1,
+                "TemplateID": 20043048,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865772,
+                "ProblemType": 1,
+                "template_id": 20043048,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1925年至1927年的国民大革命取得的最突出的成就是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>促使工农运动蓬勃开展</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>基本推翻了北洋军阀的统治</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>扩大了中国共产党在群众中的影响</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>使中国共产党得到历练</p>"
+                    }
+                ],
+                "Version": "8465ed7333894d55940fde8e0c659cb8",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865776,
+                "max_retry": 1,
+                "TemplateID": 20043052,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865776,
+                "ProblemType": 1,
+                "template_id": 20043052,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1925年至1927年的大革命规模宏伟,内涵丰富。与辛亥革命相比较,其不同点在于()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>它的革命对象是帝国主义和封建军阀</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>它是在以国共合作为基础的统一战线的组织形式下进行的</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>它广泛而深刻地发动了工农群众</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>它的主要斗争形式是武装斗争</p>"
+                    }
+                ],
+                "Version": "8d5f84a3839b4181aa4449499464db6d",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865778,
+                "max_retry": 1,
+                "TemplateID": 20043054,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865778,
+                "ProblemType": 2,
+                "template_id": 20043054,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>民主革命者吴玉章说:“从辛亥革命起,我们为了推翻清朝而迁就袁世凯,后来为了反对北洋军阀而利用西南军阀,再后来为了抵制西南军阀,而培植陈炯明,最后陈炯明叛变了。这样看来,从前的一套革命老方法非改变不可,我们要从头做起”。这表明资产阶级革命党人要改变()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>革命纲领</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>革命方式</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>革命依靠力量</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>革命对象</p>"
+                    }
+                ],
+                "Version": "ea684a56f27249bdbf962d1dc71742fa",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865774,
+                "max_retry": 1,
+                "TemplateID": 20043050,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865774,
+                "ProblemType": 1,
+                "template_id": 20043050,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 14,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>1925年5月,以()为起点,国共两党掀起了全国范围的大革命浪潮。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>国民党一大</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>成立黄埔军校</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>五卅运动</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>广州国民政府成立</p></div>"
+                    }
+                ],
+                "Version": "096c6f9d4c3c41fa9943ff5df0a61b14",
+                "unionid": "1730607226745-25872",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865775,
+                "max_retry": 1,
+                "showScore": true,
+                "TemplateID": 20043051,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865775,
+                "remarkFold": true,
+                "ProblemType": 1,
+                "answerIndex": 3,
+                "complexBody": "\n      <span class=\"font16 color3 font-weight500 item__complex-body-wrapper__pre\">\n      15.（单选题）\n      </span>\n      <p>1925年5月,以()为起点,国共两党掀起了全国范围的大革命浪潮()\n\n</p>\n    ",
+                "template_id": 20043051,
+                "problemIndex": 14,
+                "child_node_id": null,
+                "review_detail": {},
+                "isShowGrayArea": false,
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0,
+                "showFooterAddExercisePopover": false
+            },
+            {
+                "Body": "<p>1924年6月黄埔军校建立,曾担任过政治部主任的是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>蒋介石</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>廖仲恺</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>周恩来</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>孙中山</p>"
+                    }
+                ],
+                "Version": "d5fed82a876a47fbaaf8b1ac219ca0a0",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865785,
+                "max_retry": 1,
+                "TemplateID": 29830090,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865785,
+                "ProblemType": 1,
+                "template_id": 29830090,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 18,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>下列人物中参加过中共一大的有()</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>陈独秀</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>毛泽东</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>李达</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>张国焘</p></div>"
+                    }
+                ],
+                "Version": "929da159bea2437bae008ce4d455ded3",
+                "unionid": "1732104144350-28515",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865779,
+                "max_retry": 1,
+                "TemplateID": 20043055,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865779,
+                "ProblemType": 2,
+                "template_id": 20043055,
+                "awardingRule": 1,
+                "problemIndex": 18,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1920年8月,( )翻译的《共产党宣言》中文全译本公开出版。()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>毛泽东</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>李大钊</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>陈望道</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>戴季陶</p>"
+                    }
+                ],
+                "Version": "606416d4c3fc4aeebdb0d80e136d8ca1",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865764,
+                "max_retry": 1,
+                "TemplateID": 20043035,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865764,
+                "ProblemType": 1,
+                "template_id": 20043035,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国民族资本主义主要是()为主的轻工业,缺乏重工业的基础。()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>军事工业</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>纺织、食品工业</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>煤炭工业</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>船舶修造</p>"
+                    }
+                ],
+                "Version": "104600a62501484cbcf5591cad019b12",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865788,
+                "max_retry": 1,
+                "TemplateID": 29830095,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865788,
+                "ProblemType": 1,
+                "template_id": 29830095,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>大革命失败的原因包括()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>共产国际及其代表的错误指导</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>反革命力量的强大、资产阶级发生严重的动摇、统一战线出现剧烈的分化</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国共产党犯了以陈独秀为代表的右倾机会主义错误</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>蒋介石集团和汪精卫集团先后叛变革命</p>"
+                    }
+                ],
+                "Version": "663b8df94cba4840a1cb2583a284c15f",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865781,
+                "max_retry": 1,
+                "TemplateID": 20043062,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865781,
+                "ProblemType": 2,
+                "template_id": 20043062,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>以下哪位不是中共一大代表()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>董必武</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>王尽美</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>毛泽东</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>李大钊</p>"
+                    }
+                ],
+                "Version": "8c9d701e6aa2443691535da5aa707994",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865765,
+                "max_retry": 1,
+                "TemplateID": 20043036,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865765,
+                "ProblemType": 1,
+                "template_id": 20043036,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>第一次国共合作实现的标志是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>1924年中国国民党“一大”召开</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1922年陈独秀等共产党人参加改组国民党会议</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1923年中共“三大”决定共产党员以个人身份加入国民党</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>1921年底孙中山会见共产国际代表马林</p>"
+                    }
+                ],
+                "Version": "783a1e1cb6ac4c069549e0ef5cd77ca5",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865766,
+                "max_retry": 1,
+                "TemplateID": 20043037,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865766,
+                "ProblemType": 1,
+                "template_id": 20043037,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 36,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>下列不属于新文化运动代表人物的是()</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "valid": false,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p data-sider-select-id=\"83514d24-e84e-468e-84bd-92d497196955\">陈独秀</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\" data-sider-select-id=\"2a1e34b2-c7f7-40bf-a5a7-29c64368cdb7\">梁启超</span></p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">蔡元培</span></p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\" data-sider-select-id=\"799e0f7b-b5fd-483b-8974-a52b46e07ab1\">李大钊</span></p></div>"
+                    }
+                ],
+                "Version": "876d40c065bf4aa1b9cfafb6fe929aae",
+                "unionid": "1713937795966-37792",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865791,
+                "a4Preview": {
+                    "el": null,
+                    "btnEl": null,
+                    "visible": false,
+                    "maxHeight": "max-content"
+                },
+                "max_retry": 1,
+                "showScore": true,
+                "TemplateID": 29830206,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 186865791,
+                "remarkFold": true,
+                "ProblemType": 1,
+                "answerIndex": 2,
+                "complexBody": "\n      <span class=\"font16 color3 font-weight500 item__complex-body-wrapper__pre\">\n      37.（单选题）\n      </span>\n      <p>下列不属于新文化运动代表人物的是()\n\n</p>\n    ",
+                "template_id": 29830206,
+                "problemIndex": 36,
+                "error_message": "答案有缺失",
+                "review_detail": {},
+                "isShowGrayArea": false,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0,
+                "showFooterAddExercisePopover": false
+            },
+            {
+                "key": 1,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>新三民主义成为第一次国共合作的政治基础,究其原因,是由于新三民主义的政纲()</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>把民主主义概括为“平均地权”</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>把斗争的矛头直接指向北洋军阀</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>同中国共产党在民主革命阶段的纲领基本一致</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>体现了联俄、联共、扶助农工三大革命政策</p></div>"
+                    }
+                ],
+                "Version": "2e5f183bb78840b182a395467c96979b",
+                "unionid": "1730607193215-6540",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865762,
+                "max_retry": 1,
+                "TemplateID": 20043033,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865762,
+                "ProblemType": 1,
+                "answerIndex": 0,
+                "template_id": 20043033,
+                "problemIndex": 1,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 25,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>中国工人阶级政党最早的组织是在()建立的。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>武汉_</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>北京</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>东京</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>上海</p></div>"
+                    }
+                ],
+                "Version": "37449d6648dc4f7ea0f3990354cae292",
+                "unionid": "1730607413606-38403",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865786,
+                "max_retry": 1,
+                "TemplateID": 29830091,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865786,
+                "ProblemType": 1,
+                "answerIndex": 1,
+                "template_id": 29830091,
+                "problemIndex": 25,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1922年7月召开的中国共产党第二次全国代表大会的主要内容有()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>科学地阐明了中国社会的半殖民地半封建性质</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>提出了反帝反封建的民主革命的纲领</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>实行国共合作</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>当前阶段的纲领是“打倒军阀,推翻国际帝国主义的压迫,统一中国为真正民主共和国”。</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>党的最高纲领是实现社会主义、共产主义</p>"
+                    }
+                ],
+                "Version": "b6c70be2e3914f4b84c4c164a0a16bcc",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865794,
+                "max_retry": 1,
+                "TemplateID": 29830103,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865794,
+                "ProblemType": 2,
+                "template_id": 29830103,
+                "awardingRule": 1,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>新旧民主主义革命的根本区别是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>领导阶级不同</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>革命性质不同</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>所处时代不同</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>领导方法不同</p>"
+                    }
+                ],
+                "Version": "62df7f78e1234b0bb6f7324ccb9e4dab",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865770,
+                "max_retry": 1,
+                "TemplateID": 20043043,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865770,
+                "ProblemType": 1,
+                "template_id": 20043043,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1927年,蒋介石在上海制造了捕杀共产党员和革命群众的()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>整理党务案</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>中山舰事件</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>四一二政变</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>七一五政变</p>"
+                    }
+                ],
+                "Version": "d423f65f3a574b0d8761bcf6f2c73304",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865784,
+                "max_retry": 1,
+                "TemplateID": 29830089,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865784,
+                "ProblemType": 1,
+                "template_id": 29830089,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中共一大选出了党的领导机构——中央局,其成员有()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>毛泽东</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>陈独秀</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>张国焘</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>李达</p>"
+                    }
+                ],
+                "Version": "fd7bb807b78246f88cd5483d2902156b",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865780,
+                "max_retry": 1,
+                "TemplateID": 20043060,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865780,
+                "ProblemType": 2,
+                "template_id": 20043060,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>第一次国共合作采取了共产党以个人身份加入国民党的“党内合作”方式,最早提出这种方式的是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>共产国际</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>廖仲恺</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国共产党</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>孙中山</p>"
+                    }
+                ],
+                "Version": "c71c3930e15a4a39b6930a68d51eb9c6",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865773,
+                "max_retry": 1,
+                "TemplateID": 20043049,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865773,
+                "ProblemType": 1,
+                "template_id": 20043049,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1927年,汪精卫在武汉制造了屠杀共产党人和革命群众的()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>四一二事变</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>中山舰事件</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>七一五事变</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>整理党务案事件</p>"
+                    }
+                ],
+                "Version": "1bdba993730c42c684120960a1383fef",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865768,
+                "max_retry": 1,
+                "TemplateID": 20043040,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865768,
+                "ProblemType": 1,
+                "template_id": 20043040,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1921年7月召开的中国共产党第一次全国代表大会的主要内容有()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 5,
+                "index": 0,
+                "score": 5,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>正式宣告了中国共产党的成立</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>确定党的名称为中国共产党、提出了党的纲领</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>选举产生了由陈独秀、张国焘、李达组成的党的领导机构</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>决定要特别注意组织工人,以共产主义精神教育他们</p>"
+                    }
+                ],
+                "Version": "39103006000e4d029007444cb06f7c03",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865782,
+                "max_retry": 1,
+                "TemplateID": 20043063,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865782,
+                "ProblemType": 2,
+                "template_id": 20043063,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 22,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>1924年1月,国民党一大在广州召开,大会通过的宣言对三民主义作了新的解释。其中民生主义的内涵是()</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>对外实现中华民族的独立,主张国内各民族一律平等</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>平均地权,节制资本</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>民主权利应“为一般平民所共有”</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>推翻封建君主专制制度,建立资产阶级民主共和国</p></div>"
+                    }
+                ],
+                "Version": "4de4c7861f01428fac95d0fbcf603719",
+                "unionid": "1730607302030-59692",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865783,
+                "max_retry": 1,
+                "showScore": true,
+                "TemplateID": 29830088,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865783,
+                "remarkFold": true,
+                "ProblemType": 1,
+                "answerIndex": 3,
+                "complexBody": "\n      <span class=\"font16 color3 font-weight500 item__complex-body-wrapper__pre\">\n      23.（单选题）\n      </span>\n      <p>1924年1月,国民党一大在广州召开,大会通过的宣言对三民主义作了新的解释。其中民生主义的内涵有()\n\n</p>\n    ",
+                "template_id": 29830088,
+                "problemIndex": 22,
+                "child_node_id": null,
+                "review_detail": {},
+                "isShowGrayArea": false,
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0,
+                "showFooterAddExercisePopover": false
+            },
+            {
+                "Body": "<p>1927年7月15日,()在武汉召开“分共”会议.并在其辖区内对共产党员和革命群众实行搜捕和屠杀,国共合作全面破裂,大革命最终失败。()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>蒋介石</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>汪精卫</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>张作霖</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>许克强</p>"
+                    }
+                ],
+                "Version": "91f9007944444e74a338fc5969dd0a5c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865790,
+                "max_retry": 1,
+                "TemplateID": 29830098,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865790,
+                "ProblemType": 1,
+                "template_id": 29830098,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>第一次国共合作的政治基础是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>新三民主义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>联俄、联共、扶助农工的三大政策</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>三民主义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>共产主义思想</p>"
+                    }
+                ],
+                "Version": "f9b1518bbcff4a75b4a4559fda9f110c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865763,
+                "max_retry": 1,
+                "TemplateID": 20043034,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865763,
+                "ProblemType": 1,
+                "template_id": 20043034,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1920年,陈独秀等建立的中国共产党早期组织是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>广州共产主义小组</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>武汉共产主义小组</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>上海共产主义小组</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>北京共产主义小组</p>"
+                    }
+                ],
+                "Version": "348b859b4b934fb2b37ac6eca751e39c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865771,
+                "max_retry": 1,
+                "TemplateID": 20043046,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865771,
+                "ProblemType": 1,
+                "template_id": 20043046,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中共“一大”确定,党成立以后的中心任务是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1.8,
+                "index": 0,
+                "score": 1.8,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>开展武装斗争夺取政权</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>发动农民进行土地革命</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>同国民党合作推动国民革命</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>组织工人阶级,领导工人运动</p>"
+                    }
+                ],
+                "Version": "1111ab14330c4928a39c67466e6f11ac",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 186865769,
+                "max_retry": 1,
+                "TemplateID": 20043042,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 186865769,
+                "ProblemType": 1,
+                "template_id": 20043042,
+                "scope_of_question_answer": 0
+            }
+        ],
+        "has_problem_dict": false,
+        "font": "",
+        "title": "第六专题"
+    }
+}

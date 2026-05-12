@@ -1,0 +1,834 @@
+{
+    "errcode": 0,
+    "errmsg": "",
+    "data": {
+        "problems": [
+            {
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>五四运动爆发的时代条件和社会历史条件有()</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 8,
+                "index": 0,
+                "score": 8,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": false,
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>新的社会力量的成长、壮大</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>旧民主主义革命的终结</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>新文化运动掀起的思想解放的潮流</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>俄国十月革命对中国的影响</p></div>"
+                    }
+                ],
+                "Version": "dadc26749cbf4abfbc23981237115ec5",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703814,
+                "max_retry": 1,
+                "TemplateID": 29588623,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 185703814,
+                "ProblemType": 2,
+                "template_id": 29588623,
+                "awardingRule": 1,
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>下列哪篇文章表明,李大钊已经成为中国的第一个马克思主义者。()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>《我的马克思主义观》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《Bolshevism的胜利》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《法俄革命之比较观》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《庶民的胜利》</p>"
+                    }
+                ],
+                "Version": "56bf0e2cebc54269a2d8ce9c20840221",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703799,
+                "max_retry": 1,
+                "TemplateID": 19942445,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703799,
+                "ProblemType": 1,
+                "template_id": 19942445,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在中国最早讴歌十月革命、比较系统地介绍马克思主义的是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>毛泽东</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>陈独秀</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>瞿秋白</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>李大钊</p>"
+                    }
+                ],
+                "Version": "5c80227b47c94f2482f6ddf4521014ab",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703797,
+                "max_retry": 1,
+                "TemplateID": 19942442,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703797,
+                "ProblemType": 1,
+                "template_id": 19942442,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1915年9月,陈独秀在上海创办《青年杂志》。他在该刊发刊词中宣称,“盖改造青年之思想,辅导青年之修养,为本志之天职。批评时政,非其旨也。”此时陈独秀把主要注意力倾注于思想变革的原因是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>他认为批评时政不利于改造青年思想</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>他认定改造国民性是政治变革的前提</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>他对资本阶级民主主义产生了怀疑</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>他对政治问题不感兴趣</p>"
+                    }
+                ],
+                "Version": "4da9684cbb114d39be9eb8a8712fd56d",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703798,
+                "max_retry": 1,
+                "TemplateID": 19942444,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703798,
+                "ProblemType": 1,
+                "template_id": 19942444,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1915年9月在上海创办《青年》杂志的是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>李大钊</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>胡适</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>鲁迅</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>陈独秀</p>"
+                    }
+                ],
+                "Version": "2b11277b3b8f4d988f91b721796523cd",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703801,
+                "max_retry": 1,
+                "TemplateID": 19942447,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703801,
+                "ProblemType": 1,
+                "template_id": 19942447,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国工人阶级开始以独立的姿态登上历史舞台是在()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>辛亥革命</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>五四运动</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国共产党成立</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>新文化运动</p>"
+                    }
+                ],
+                "Version": "a48f8226ba5a42a6be54aa3dabfe87f5",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703800,
+                "max_retry": 1,
+                "TemplateID": 19942446,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703800,
+                "ProblemType": 1,
+                "template_id": 19942446,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国新民主主义革命的伟大开端是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>中国共产党的成立</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>五四运动</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>辛亥革命</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>俄国十月社会主义革命</p>"
+                    }
+                ],
+                "Version": "7209ebb2332a478aa59fe63f8df2cf69",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703807,
+                "max_retry": 1,
+                "TemplateID": 29588615,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703807,
+                "ProblemType": 1,
+                "template_id": 29588615,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1915年9月,陈独秀在上海创办《青年杂志》(后改名《新青年》),吹响了新文化运动的号角。新文化运动高举民主和科学两面大旗,向封建主义思想文化发起了前所未有的猛烈冲击。新文化运动的历史意义表现在它()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 8,
+                "index": 0,
+                "score": 8,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>彻底否定了孔学的历史作用</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>在社会上掀起了一股思想解放的潮流</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>为马克思主义在中国的传播创造了有利条件</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>是中国历史上一次前所未有的启蒙运动</p>"
+                    }
+                ],
+                "Version": "ec225978798c4259835f7de72d0a4f59",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703813,
+                "max_retry": 1,
+                "TemplateID": 19942456,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703813,
+                "ProblemType": 2,
+                "template_id": 19942456,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 7,
+                "Body": "<p>新文化运动中对封建礼教进行揭露控拆的《狂人日记》的作者是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>李大钊</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>鲁迅</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>胡适</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>陈独秀</p>"
+                    }
+                ],
+                "Version": "c4dea42db4e04423bdadde6e592c7725",
+                "unionid": "1680100450935-69365",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703802,
+                "max_retry": 1,
+                "TemplateID": 19942448,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703802,
+                "ProblemType": 1,
+                "answerIndex": 1,
+                "template_id": 19942448,
+                "problemIndex": 7,
+                "review_detail": {},
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>反对封建主义、提倡民主与科学的思想启蒙运动是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>五四运动</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>新文化运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>洋务运动</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>维新变法运动</p>"
+                    }
+                ],
+                "Version": "011b5e3998db444ca0ce22aa9399be0d",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703803,
+                "max_retry": 1,
+                "TemplateID": 19942449,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703803,
+                "ProblemType": 1,
+                "template_id": 19942449,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 13,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>五四运动是一次真正的群众运动,参加这次运动的群众有()</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 8,
+                "index": 0,
+                "score": 8,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>工人阶级</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>爱国学生</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>民族资产阶级</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>小资产阶级</p></div>"
+                    }
+                ],
+                "Version": "d02158b62d7248d3be1ce73c5d245058",
+                "unionid": "1713355511596-33111",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703811,
+                "max_retry": 1,
+                "TemplateID": 19942454,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703811,
+                "ProblemType": 2,
+                "template_id": 19942454,
+                "awardingRule": 1,
+                "problemIndex": 13,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>早期新文化运动的性质是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>无产阶级思想文化运动</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>资产阶级民主主义思想文化运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>新民主主义思想文化运动</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>马克思主义思想文化运动</p>"
+                    }
+                ],
+                "Version": "9a6a7efe89684e46a27dac116819f3a3",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703804,
+                "max_retry": 1,
+                "TemplateID": 19942450,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703804,
+                "ProblemType": 1,
+                "template_id": 19942450,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>十月革命推动中国的先进分子从资产阶级民主主义转向社会主义的原因是:()\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 8,
+                "index": 0,
+                "score": 8,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>十月革命中工人和士兵的广泛发动并由此赢得胜利的事实昭示中国先进分子以新的方法开展革命</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>十月革命一声炮响,给我们送来了马克思列宁主义</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>十月革命启示中国人在经济文化落后的国家也可以用社会主义指引自己走向解放之路</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>十月革命后,苏维埃俄国号召反对帝国主义,以新的平等姿态对待中国,推动了社会主义思想在中国的传播</p>"
+                    }
+                ],
+                "Version": "a0e343e5e27e4b01bf554dae1162b2cc",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703810,
+                "max_retry": 1,
+                "TemplateID": 19942453,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703810,
+                "ProblemType": 2,
+                "template_id": 19942453,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>第一次世界大战,德国战败。1918年12月,陈独秀在《每周评论》中说,大战结果是“公理战胜强权”,并把美国总统威尔逊称作是“现在世界上第一个好人”。然而,陈独秀在1919年5月4日出版的《每周评论》上的一篇文章中又写到:“什么公理,什么永久和平,什么威尔逊总统十四条宣言,都成了一文不值的空话。”导致陈独秀认识发生变化的直接原因是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>美国不愿放弃在华种种特权</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>苏俄宣布废除从前同中国签订的一切不平等条约</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>日本对德宣战,出兵山东</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国在巴黎和会上外交失败</p>"
+                    }
+                ],
+                "Version": "5a5c56f01e664a0db2cc77582f7b7997",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703808,
+                "max_retry": 1,
+                "TemplateID": 29588613,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703808,
+                "ProblemType": 1,
+                "template_id": 29588613,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国早期马克思主义思想运动的特点是()。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 8,
+                "index": 0,
+                "score": 8,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>注意从中国实际出发,学习、运用马克思主义的理论</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>重视对马克思主义基本理论的学习</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>明确地同第二国际的社会民主主义划清界限</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>开始提出知识分子应当同劳动群众相结合的思想</p>"
+                    }
+                ],
+                "Version": "1b71a1f7b3d04206b1a6522f2420fe7f",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703812,
+                "max_retry": 1,
+                "TemplateID": 19942455,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703812,
+                "ProblemType": 2,
+                "template_id": 19942455,
+                "awardingRule": 1,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>新文化运动兴起的标志是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>李大钊发表《庶民的胜利》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>陈独秀创办《新青年》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>胡适发表《文学改良刍议》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>鲁迅发表《狂人日记》</p>"
+                    }
+                ],
+                "Version": "9941dcd85071452eb852f3e368b9550f",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703805,
+                "max_retry": 1,
+                "TemplateID": 19942451,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703805,
+                "ProblemType": 1,
+                "template_id": 19942451,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>最早在《新青年》上提倡以白话文代替文言文,成为文学革命先声的是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>陈独秀的《文学革命论》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>鲁迅的《狂人日记》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>李大钊的《庶民的胜利》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>胡适的《文学改良刍议》</p>"
+                    }
+                ],
+                "Version": "7d12e3f8e0314d5ba75c015e7c2bb000",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703809,
+                "max_retry": 1,
+                "TemplateID": 19942452,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703809,
+                "ProblemType": 1,
+                "template_id": 19942452,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>新文化运动是从1915年9月陈独秀在上海创办《青年杂志》(后改名《新青年》)开始的。新文化运动是中国历史上一次前所未有的启蒙运动和空前深刻的思想解放运动,具有重要的意义。以下选项内容不正确的是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 4,
+                "index": 0,
+                "score": 4,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>新文化运动为外国各种思想流派传入中国敞开了大门</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>新文化运动的主要阵地是《新青年》杂志和北京大学</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>新文化运动是新民主主义的文化运动</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>新文化运动提出的基本口号是民主和科学</p>"
+                    }
+                ],
+                "Version": "0c0170cee74942228f29a027d4500986",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 185703806,
+                "max_retry": 1,
+                "TemplateID": 29588614,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 185703806,
+                "ProblemType": 1,
+                "template_id": 29588614,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            }
+        ],
+        "has_problem_dict": false,
+        "font": "",
+        "title": "第五专题"
+    }
+}

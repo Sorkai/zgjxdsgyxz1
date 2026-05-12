@@ -1,0 +1,1990 @@
+{
+    "errcode": 0,
+    "errmsg": "",
+    "data": {
+        "problems": [
+            {
+                "Body": "<p>近代中国人数最多的被剥削阶级是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>农民阶级</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>资产阶级</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>工人阶级</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>无产阶级</p>"
+                    }
+                ],
+                "Version": "d6b2d93010884304bc5539da32662f2e",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475325,
+                "max_retry": 1,
+                "TemplateID": 28711459,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475325,
+                "ProblemType": 1,
+                "template_id": 28711459,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>近代中国诞生的新兴的被压迫阶级是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>地主阶级</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>资产阶级</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>农民阶级</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>工人阶级</p>"
+                    }
+                ],
+                "Version": "0749aacfad194d38a305fa1f24fd5989",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475329,
+                "max_retry": 1,
+                "TemplateID": 28711463,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475329,
+                "ProblemType": 1,
+                "template_id": 28711463,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>近代中国人民所面临的两大历史任务是()。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B",
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>争取民族独立和人民解放</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>反抗帝国主义的侵略</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>实现国家的繁荣富强和人民的共同富裕</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>推翻清王朝的统治</p>"
+                    }
+                ],
+                "Version": "33c42c5b96454cad91db65167e583cf8",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475348,
+                "max_retry": 1,
+                "TemplateID": 28711480,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475348,
+                "ProblemType": 2,
+                "template_id": 28711480,
+                "awardingRule": 1,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p> 近代中国睁眼看世界的第一人是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>严复</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>龚自珍</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>林则徐</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>魏源</p>"
+                    }
+                ],
+                "Version": "f2faf1a6d0e84c088e85d8c7c1008cf5",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475339,
+                "max_retry": 1,
+                "TemplateID": 28711471,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475339,
+                "ProblemType": 1,
+                "template_id": 28711471,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 39,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>鸦片战争后新产生的阶级有()。</p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "E"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "E",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>民族资产阶级</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>农民阶级</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>工人阶级</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>地主阶级</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>买办资产阶级</p></div>"
+                    }
+                ],
+                "Version": "73c4ec43302e4e8da33146d8e9cdd371",
+                "unionid": "1730291747349-12043",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475345,
+                "max_retry": 1,
+                "TemplateID": 28711477,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475345,
+                "ProblemType": 2,
+                "template_id": 28711477,
+                "awardingRule": 1,
+                "problemIndex": 39,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国“不败而败”的一场战争是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>鸦片战争</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>甲午战争</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>第二次鸦片战争</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中法战争</p>"
+                    }
+                ],
+                "Version": "58caeb7320544bd9b539da2b9a435395",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475324,
+                "max_retry": 1,
+                "TemplateID": 28711458,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475324,
+                "ProblemType": 1,
+                "template_id": 28711458,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国的关税自主权开始遭到破坏是在()条约。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>《南京条约》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《天津条约》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《北京条约》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《马关条约》</p>"
+                    }
+                ],
+                "Version": "8f5e87e20e6d4e13a30d0db06f1698f6",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475314,
+                "max_retry": 1,
+                "TemplateID": 28711449,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475314,
+                "ProblemType": 1,
+                "template_id": 28711449,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>第一次鸦片战争结束后,中国与美国订立的条约是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《南京条约》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《望厦条约》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《黄埔条约》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《瑷珲条约》</p>"
+                    }
+                ],
+                "Version": "3da02da3d03a444d8e0c5561eb86e511",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475316,
+                "max_retry": 1,
+                "TemplateID": 28711451,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475316,
+                "ProblemType": 1,
+                "template_id": 28711451,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"font-size:16px;font-family:仿宋\">资产阶级是近代中国新产生的阶级，主要来自</span></p><p><br/></p></div>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D",
+                    "C",
+                    "B",
+                    "A"
+                ],
+                "Remark": "",
+                "isEdit": false,
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"font-family: 仿宋; text-wrap: wrap;\">地主</span></p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"font-family: 仿宋; text-wrap: wrap;\">买办</span></p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"font-family: 仿宋; text-wrap: wrap;\">商人</span></p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"font-family: 仿宋; text-wrap: wrap;\">官僚</span></p></div>"
+                    }
+                ],
+                "Version": "03b3498cfaa846dda886cdb5c0f35c56",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475341,
+                "max_retry": 1,
+                "TemplateID": 28711560,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 182475341,
+                "ProblemType": 2,
+                "template_id": 28711560,
+                "awardingRule": 1,
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>强迫清政府把台湾割让给日本的不平等条约是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>《马关条约》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《北京条约》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《辛丑条约》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《南京条约》</p>"
+                    }
+                ],
+                "Version": "2e634b99e5f245e38d532de77fbba4cc",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475318,
+                "max_retry": 1,
+                "TemplateID": 28711453,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475318,
+                "ProblemType": 1,
+                "template_id": 28711453,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>规定割让香港岛的是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>《虎门条约》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《南京条约》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《北京条约》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《天津条约》</p>"
+                    }
+                ],
+                "Version": "25a64a456392451d8330f47a659b3b92",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475315,
+                "max_retry": 1,
+                "TemplateID": 28711450,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475315,
+                "ProblemType": 1,
+                "template_id": 28711450,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p> 中国近代史上提出“师夷长技以制夷”主张的是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>林则徐</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>魏源</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>龚自珍</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>严复</p>"
+                    }
+                ],
+                "Version": "ba268956af594882b13a212e6b298ad6",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475340,
+                "max_retry": 1,
+                "TemplateID": 28711472,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475340,
+                "ProblemType": 1,
+                "template_id": 28711472,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>火烧圆明园的侵略军是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>第二次鸦片战争时的英法联军</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>鸦片战争时的英军</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中法战争中的法军</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>甲午战争时的日军</p>"
+                    }
+                ],
+                "Version": "f8d7f542ab1a43739a8dc2388c0eea7c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475321,
+                "max_retry": 1,
+                "TemplateID": 28711456,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475321,
+                "ProblemType": 1,
+                "template_id": 28711456,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>鸦片战争给中国带来的最大变化是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>小农经济开始瓦解</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>开始转变为半殖民地半封建社会</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>领土被割占.</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>主权不完整</p>"
+                    }
+                ],
+                "Version": "293e877b04484589b099e5c983a59d66",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475320,
+                "max_retry": 1,
+                "TemplateID": 28711455,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475320,
+                "ProblemType": 1,
+                "template_id": 28711455,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国封建社会的社会结构特点是族权和政权相结合的封建宗法等级制度。其核心是宗族家长制,突出()。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>夫权</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>人权</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>父权</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>族长权</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>君权</p>"
+                    }
+                ],
+                "Version": "c15cd3f76fdf4444979412ad0aa9ebf9",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475346,
+                "max_retry": 1,
+                "TemplateID": 28711478,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475346,
+                "ProblemType": 2,
+                "template_id": 28711478,
+                "awardingRule": 1,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国近现代史,就其主流和本质来说,是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>中国人民为救亡图存和实现中华民族伟大复兴而英勇奋斗、艰辛探索并不断取得伟大成就的历史</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>实现新民主主义革命的胜利</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>改革开放</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>坚持和发展中国特色社会主义</p>"
+                    }
+                ],
+                "Version": "993aa3e55b43429c8146bcca3023a3ff",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475338,
+                "max_retry": 1,
+                "TemplateID": 28711470,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475338,
+                "ProblemType": 1,
+                "template_id": 28711470,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>鸦片战争后,随着资本-帝国主义的人侵,中国社会发生的两个根本性变化是()。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>封建的中国逐步变成资本主义的中国</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>落后的农业国变成近代的工业国</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>封建的中国逐步变成半封建的中国</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>独立的中国逐步变成半殖民地的中国</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>小农经济逐渐被资本主义经济所取代</p>"
+                    }
+                ],
+                "Version": "e3e652c45e054faeac3c5a102fa1d533",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475343,
+                "max_retry": 1,
+                "TemplateID": 28711475,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475343,
+                "ProblemType": 2,
+                "template_id": 28711475,
+                "awardingRule": 1,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 25,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>提出“振兴中华”口号的代表人物是()。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "valid": false,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>康有为</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">严复</span></p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">孙中山</span></p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">梁启超</span></p></div>"
+                    }
+                ],
+                "Version": "3fafb862e477484396a254303619cac1",
+                "unionid": "1711258213968-55066",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475331,
+                "max_retry": 1,
+                "TemplateID": 28711524,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 182475331,
+                "ProblemType": 1,
+                "answerIndex": 2,
+                "template_id": 28711524,
+                "problemIndex": 25,
+                "error_message": "答案有缺失",
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国民族资产阶级对外国资本主义和本国封建主义()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>是完全对立.坚决反对的</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>既有矛盾.斗争的一面,又有依赖.妥协的一面</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>是完全依赖.坚决追随的</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>只反对本国封建主义,不反对外国资本主义</p>"
+                    }
+                ],
+                "Version": "03930ea6982b4324bc38a07297778a46",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475326,
+                "max_retry": 1,
+                "TemplateID": 28711460,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475326,
+                "ProblemType": 1,
+                "template_id": 28711460,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>近代史上中国与西方列强签订的第一个不平等条约是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>《中法新约》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>中英《南京条约》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中英《北素条约》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中日《马关条约》</p>"
+                    }
+                ],
+                "Version": "e35f58b8a1694b7386042bc1f044e506",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475313,
+                "max_retry": 1,
+                "TemplateID": 28711448,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475313,
+                "ProblemType": 1,
+                "template_id": 28711448,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>世界历史开始进入资本主义时代的标志性事件是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>1789年法国大革命</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1680年俄国彼得一世改革,</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1868年目本明治维新</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>1640年英国资产阶级革命</p>"
+                    }
+                ],
+                "Version": "68fd4eda4cc248b8ba3319c52f66c843",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475310,
+                "max_retry": 1,
+                "TemplateID": 28711445,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475310,
+                "ProblemType": 1,
+                "template_id": 28711445,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>鸦片战争前英国殖民者之所以大量向中国走私鸦片,主要目的是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>取得在中国的贸易垄断权</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>逼迫清政府增设通商口岸</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>牟取暴利,扭转对华贸易逆差</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>用鸦片毒害中国人民的身心健康</p>"
+                    }
+                ],
+                "Version": "488f68ef32c34619b0cfe9d191ef17ed",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475334,
+                "max_retry": 1,
+                "TemplateID": 28711467,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475334,
+                "ProblemType": 1,
+                "template_id": 28711467,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 17,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>从中国攫取一百多万平方公里土地,在第二次鸦片战争中获利最大的国家是()。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "valid": false,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>法</p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>日</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>俄</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>英</p></div>"
+                    }
+                ],
+                "Version": "67a59209716f444d96c018a15f2b927a",
+                "unionid": "1711258213968-23909",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475323,
+                "max_retry": 1,
+                "TemplateID": 28711522,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 182475323,
+                "ProblemType": 1,
+                "answerIndex": 2,
+                "template_id": 28711522,
+                "problemIndex": 17,
+                "error_message": "答案有缺失",
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>19世纪40年代,西方殖民者通过哪些手段,使中国一步步沦为半殖民地半封建社会()。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>政治控制</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>文化渗透</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>军事侵略</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>经济掠夺</p>"
+                    }
+                ],
+                "Version": "199fc7d065d24a7d8ff1d9715e6440dd",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475347,
+                "max_retry": 1,
+                "TemplateID": 28711479,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475347,
+                "ProblemType": 2,
+                "template_id": 28711479,
+                "awardingRule": 1,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>近代中国向西方列强赔款最多的不平等条约是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>《天津条约》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《南京条约》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《马关条约》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《辛丑条约》</p>"
+                    }
+                ],
+                "Version": "364bbc3fa05144f0b3513632b1bd8d63",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475319,
+                "max_retry": 1,
+                "TemplateID": 28711454,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475319,
+                "ProblemType": 1,
+                "template_id": 28711454,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国近代历史的起点是().\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>中华民国建立.</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>洋务运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>鸦片战争</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>虎门销烟</p>"
+                    }
+                ],
+                "Version": "16fc14e4b1994992b154ca645b91893b",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475312,
+                "max_retry": 1,
+                "TemplateID": 28711447,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475312,
+                "ProblemType": 1,
+                "template_id": 28711447,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 31,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>帝国主义列强对中国进行文化渗透的目的是()。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "valid": false,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">进行传教活动</span></p></div>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">传播西方科学知识</span></p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>宣扬殖民主义奴化思想</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>传播西方文化</p></div>"
+                    }
+                ],
+                "Version": "3b8ba424fefe484696fb40a12df894ef",
+                "unionid": "1711258213968-44416",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475337,
+                "max_retry": 1,
+                "TemplateID": 28711527,
+                "difficulty": 0,
+                "library_id": 122934,
+                "problem_id": 182475337,
+                "ProblemType": 1,
+                "answerIndex": 1,
+                "template_id": 28711527,
+                "problemIndex": 31,
+                "error_message": "答案有缺失",
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国的近现代史,是指()年以来中国的历史。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>1840</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1911</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1949</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1919</p>"
+                    }
+                ],
+                "Version": "806af990bb944309ae50769e05a6bdaf",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475311,
+                "max_retry": 1,
+                "TemplateID": 28711446,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475311,
+                "ProblemType": 1,
+                "template_id": 28711446,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国封建社会的社会结构的特点是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>族权和政权相结合的宗法等级制</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>族权制</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>市民社会制</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>领主制</p>"
+                    }
+                ],
+                "Version": "76d2df067c104f2ea224a45520a7e800",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475308,
+                "max_retry": 1,
+                "TemplateID": 28711443,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475308,
+                "ProblemType": 1,
+                "template_id": 28711443,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>近代中国社会的最主要矛盾是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>帝国主义和中华民族的矛盾</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>资产阶级和无产阶级的矛盾</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>地主阶级和农民阶级的矛盾</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>封建主义和人民大众的矛盾</p>"
+                    }
+                ],
+                "Version": "cebb9c285df948569f5449b6a71a1278",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475328,
+                "max_retry": 1,
+                "TemplateID": 28711462,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475328,
+                "ProblemType": 1,
+                "template_id": 28711462,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国近代史以鸦片战争为开端,主要是因为()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>民族矛盾取代了阶级矛盾</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>我国社会性质开始发生根本变化</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>我国长期闭关锁国状况被打破</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>我国第一次被西方国家打败</p>"
+                    }
+                ],
+                "Version": "3a4f785c9dd44d178836597b6a26ad15",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475335,
+                "max_retry": 1,
+                "TemplateID": 28711468,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475335,
+                "ProblemType": 1,
+                "template_id": 28711468,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>割占我国九龙半岛南端的不平等条约是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>《北京条约》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《南京条约》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《马关条约》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《瑷珲条约》</p>"
+                    }
+                ],
+                "Version": "b3ad2d4d7fb0476088c29ba83fbd12f1",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475317,
+                "max_retry": 1,
+                "TemplateID": 28711452,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475317,
+                "ProblemType": 1,
+                "template_id": 28711452,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>近代以来中国反侵略战争失败的最根本原因是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>经济技术的落后</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>帝国主义的强大</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国军队军事素质低下</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>社会制度的腐败</p>"
+                    }
+                ],
+                "Version": "5a288fc4c7f341b183c3f7c6c0e1c6f7",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475336,
+                "max_retry": 1,
+                "TemplateID": 28711469,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475336,
+                "ProblemType": 1,
+                "template_id": 28711469,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在近代中国,实现国家富强和人民富裕的前提是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>实行资本主义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>进行西方式的工业革命</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>争取民族独立和人民解放</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>进行实业救国</p>"
+                    }
+                ],
+                "Version": "571e1683c9a745a393dae2600048c0f1",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475330,
+                "max_retry": 1,
+                "TemplateID": 28711464,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475330,
+                "ProblemType": 1,
+                "template_id": 28711464,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国半殖民地半封建社会经济上的特征是()。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>中国新兴的民族资本主义经济虽然已经产生,但始终不占主导也位</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中国的广大人民过着饥寒交迫和毫无政治权利的生活</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国封建势力成为资本一帝国主义统治中国的社会基础</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>自然经济的基础虽然遭到破坏,但封建地主的土地所有制依然保持着</p>"
+                    }
+                ],
+                "Version": "c29d9a3d932b4e56a111d4ba315fd875",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475344,
+                "max_retry": 1,
+                "TemplateID": 28711476,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475344,
+                "ProblemType": 2,
+                "template_id": 28711476,
+                "awardingRule": 1,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>鸦片战争前,中国社会经济中占统治地位的是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>资本主义经济</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>自然经济</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>半殖民地经济</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>商品经济</p>"
+                    }
+                ],
+                "Version": "0f92cce216cf437b81d18e5a6ef4dbba",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475307,
+                "max_retry": 1,
+                "TemplateID": 28711442,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475307,
+                "ProblemType": 1,
+                "template_id": 28711442,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国近代史上中国人民第一次大规模的反侵略武装斗争是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>香港工人大罢工</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>虎门销烟</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>三元里人民抗英斗争</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>台湾人民反抗日本割台斗争</p>"
+                    }
+                ],
+                "Version": "93e6b6d375a74011b61ce32fb8ddbaba",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475333,
+                "max_retry": 1,
+                "TemplateID": 28711466,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475333,
+                "ProblemType": 1,
+                "template_id": 28711466,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国封建社会政治的基本特征是()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>结构稳定.延续,发展缓慢.迟滞</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>国家统一和各民族经济文化紧密联系</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>高度中央集权的封建君主专制</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>族权和政权相结合</p>"
+                    }
+                ],
+                "Version": "e2d95d17f64c4ac3bfe674033d699611",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475309,
+                "max_retry": 1,
+                "TemplateID": 28711444,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475309,
+                "ProblemType": 1,
+                "template_id": 28711444,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>19世纪下半期,沙俄通过()割占中国150多万平方公里的领土。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>《瑷珲条约》.《北京条约》.《勘分西北界约记》.《伊犁条约》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《天津条约》.《北京条约》.《勘分西北界约记》《伊犁条约》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《天津条约》.《北京条约》.《瑷珲条约》.《勘分西北界约记》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《天津条约》.《南京条约》.《瑷珲条约》.《勘分西北界约记》</p>"
+                    }
+                ],
+                "Version": "d43dcb79620b46389731452363a7fdec",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475322,
+                "max_retry": 1,
+                "TemplateID": 28711457,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475322,
+                "ProblemType": 1,
+                "template_id": 28711457,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>鸦片战争前中国封建社会的主要矛盾是()。\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>资产阶级和工人阶级的矛盾</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>帝国主义和中华民族的矛盾</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>地主阶级和农民阶级的矛盾</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>封建主义和资本主义的矛盾</p>"
+                    }
+                ],
+                "Version": "d1f11f4feb9546c69b1d14dd974cba6f",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475327,
+                "max_retry": 1,
+                "TemplateID": 28711461,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475327,
+                "ProblemType": 1,
+                "template_id": 28711461,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>鸦片战争成为中国近代史的起点,这是因为随着西方列强的入侵,()。\n\n</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>中国逐渐开始了反帝反封建的资产阶级民主革命;</p>"
+                    },
+                    {
+                        "key": "E",
+                        "value": "<p>西方资本主义文明逐渐传入中国。</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国革命属于世界无产阶级革命的组成部分;</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>中国逐步成为半殖民地半封建国家;</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国社会主要矛盾的变化;</p>"
+                    }
+                ],
+                "Version": "1c967905bde24a579c1a63ba7e1180ce",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475342,
+                "max_retry": 1,
+                "TemplateID": 28711474,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475342,
+                "ProblemType": 2,
+                "template_id": 28711474,
+                "awardingRule": 1,
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 26,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>1839年,组织编写成《四洲志》,向中国人介绍西方情况的是()。</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2.5,
+                "index": 0,
+                "score": 2.5,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "source": "libreoffice to problem",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">郑观应</span></p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">魏源</span></p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p><span style=\"text-wrap: wrap;\">马建忠</span></p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>林则徐</p></div>"
+                    }
+                ],
+                "Version": "e206f1ca8d6c4e8b9ef9b906f5675017",
+                "unionid": "1711258213968-97031",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 182475332,
+                "max_retry": 1,
+                "TemplateID": 28711465,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 182475332,
+                "ProblemType": 1,
+                "answerIndex": 0,
+                "template_id": 28711465,
+                "problemIndex": 26,
+                "review_detail": {},
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            }
+        ],
+        "has_problem_dict": false,
+        "font": "",
+        "title": "第二专题"
+    }
+}

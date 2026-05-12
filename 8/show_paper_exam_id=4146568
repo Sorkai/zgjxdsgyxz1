@@ -1,0 +1,1800 @@
+{
+    "errcode": 0,
+    "errmsg": "",
+    "data": {
+        "problems": [
+            {
+                "Body": "<p>标志着中国人民抗日救亡运动新高潮的到来的是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>华北事变</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>第十九路军抗战</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>一二九运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>卢沟桥抗战</p>"
+                    }
+                ],
+                "Version": "bb34e080b275402983fbc3bdd2fe6202",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993539,
+                "max_retry": 1,
+                "TemplateID": 20307971,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993539,
+                "ProblemType": 1,
+                "template_id": 20307971,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>日本开始实施变中国为其独占殖民地的事件是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>华北事变</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>皇姑屯事变</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>“九一八”事变</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>卢沟桥事变</p>"
+                    }
+                ],
+                "Version": "cbe24d785c5541d7b8c75a79b01bf547",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993525,
+                "max_retry": 1,
+                "TemplateID": 20307957,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993525,
+                "ProblemType": 1,
+                "template_id": 20307957,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1939年1月,国民党确定“防共、限共、溶共、反共”方针的会议是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>国民党临时全国代表大会</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>国民党五届五中全会</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>国民党五届六中全会</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>国民党五届三中全会</p>"
+                    }
+                ],
+                "Version": "052853bbb60341e2943d2267e4383c52",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993524,
+                "max_retry": 1,
+                "TemplateID": 20307956,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993524,
+                "ProblemType": 1,
+                "template_id": 20307956,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1938年5月,毛泽东发表的论述抗日战争发展规律的著作是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>《中国共产党在民族战争中的地位》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《抗日游击战争的战略问题》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《论持久战》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《论反对日本帝国主义的策略》</p>"
+                    }
+                ],
+                "Version": "103cc7b0b3c64a4ca90488c9d80e82f3",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993538,
+                "max_retry": 1,
+                "TemplateID": 20307970,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993538,
+                "ProblemType": 1,
+                "template_id": 20307970,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>标志以国共合作为基础的抗日民族统一战线正式形成的是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>7月17日,周恩来,秦邦宪等在庐山同蒋介石、张冲等进行谈判</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>国民党公布了合作宣言和蒋介石发表承认中共合法地位的谈话</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>西安事变的和平解决</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>国民党五届三中全会确定实行联共政策</p>"
+                    }
+                ],
+                "Version": "557abd33c9e04123b0f7d80cf825310c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993530,
+                "max_retry": 1,
+                "TemplateID": 20307962,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993530,
+                "ProblemType": 1,
+                "template_id": 20307962,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗日战争是近代以来中华民族反抗外敌入侵第一次取得完全胜利的民族解放战争,中国赢得抗日战争胜利的主要原因是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>中国人民空前的民族觉醒和民族团结</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国的国力空前强大</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>得到了国际反法西斯力量的同情和支持</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>中国共产党发挥了中流砥柱的作用</p>"
+                    }
+                ],
+                "Version": "33994a156eed40489e7c72c9ae234bac",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993550,
+                "max_retry": 1,
+                "TemplateID": 20307982,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993550,
+                "ProblemType": 2,
+                "template_id": 20307982,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>延安整风运动的主要内容是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>反对宗派主义以整顿党风</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>反对党八股以整顿文风</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>反对主观主义以整顿学风</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>反对主观主义以整顿党风</p>"
+                    }
+                ],
+                "Version": "b9a572703eb84c6d858febc49cb633da",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993547,
+                "max_retry": 1,
+                "TemplateID": 20307979,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993547,
+                "ProblemType": 2,
+                "template_id": 20307979,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗战后期,国民党军队遭到大溃败的战役是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>淞沪会战</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>长沙会战</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>武汉会战</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>豫湘桂战役</p>"
+                    }
+                ],
+                "Version": "11c463e4bb0047fda9b617349a9edaad",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993541,
+                "max_retry": 1,
+                "TemplateID": 20307973,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993541,
+                "ProblemType": 1,
+                "template_id": 20307973,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>全国抗战爆发后,国民党正面战场取得的第一个大的胜利是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>豫湘桂战役</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>枣宜战役</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>台儿庄战役</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>平型关战役</p>"
+                    }
+                ],
+                "Version": "c20344bb2c2a441c90343fa51f2f20bd",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993519,
+                "max_retry": 1,
+                "TemplateID": 20307951,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993519,
+                "ProblemType": 1,
+                "template_id": 20307951,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>毛泽东比较完整阐明新民主主义基本理论、纲领和政策的著作是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>《中国共产党在民族战争中的地位》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《论反对日本帝国主义的策略》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《新民主主义论》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《抗日游击战争的战略问题》</p>"
+                    }
+                ],
+                "Version": "a84a3f5b55444b169e99d1820d042fd7",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993535,
+                "max_retry": 1,
+                "TemplateID": 20307967,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993535,
+                "ProblemType": 1,
+                "template_id": 20307967,
+                "scope_of_question_answer": 0
+            },
+            {
+                "key": 12,
+                "Body": "<div class=\"custom_ueditor_cn_body\"><p>1941年开始的延安整风运动的最主要任务是()</p></div>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "isEdit": true,
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>反对官僚主义以整顿作风</p></div>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>反对宗派主义以整顿党风</p></div>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>反对主观主义以整顿学风</p></div>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<div class=\"custom_ueditor_cn_body\"><p>反对党八股以整顿文风</p></div>"
+                    }
+                ],
+                "Version": "02fb946bfb6c4075b5bfac72f0d58f91",
+                "unionid": "1715401832872-5641",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993528,
+                "max_retry": 1,
+                "TemplateID": 20307960,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993528,
+                "ProblemType": 1,
+                "answerIndex": 0,
+                "template_id": 20307960,
+                "problemIndex": 12,
+                "child_node_id": null,
+                "review_detail": {},
+                "catalog_graph_id": null,
+                "catalog_node_ids": [],
+                "check_from_xueke": false,
+                "knowledge_graph_id": null,
+                "knowledge_node_ids": [],
+                "isContinueWithWrong": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1938年10月后日本侵华政策的调整是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>对国民党采取政治诱降为主、军事打击为辅的方针</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>在占领区扶植傀儡政权,建立发展汉奸组织</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>实施“以华制华”和“以战养战”的策略</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>逐渐加强对共产党领导的敌后根据地的“扫荡”</p>"
+                    }
+                ],
+                "Version": "40fb39eb75e64795904035682bd60d06",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993555,
+                "max_retry": 1,
+                "TemplateID": 20307987,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993555,
+                "ProblemType": 2,
+                "template_id": 20307987,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>面对日军的大举侵略,蒋介石在1931年7月的方针是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>“自强之术,必先练兵”</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>“攘外必先安内”</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>“以华制华”</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>“绝对不抵抗”</p>"
+                    }
+                ],
+                "Version": "afcd14ab30654383b50c2889e6155458",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993527,
+                "max_retry": 1,
+                "TemplateID": 20307959,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993527,
+                "ProblemType": 1,
+                "template_id": 20307959,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗日战争时期,国民党第二次反共高潮达到顶点的标志是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>平江惨案</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>皖南事变</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>晋西事变</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>陇东事变</p>"
+                    }
+                ],
+                "Version": "de2e24183c7e4fbcb8e6046db8b4cee2",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993534,
+                "max_retry": 1,
+                "TemplateID": 20307966,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993534,
+                "ProblemType": 1,
+                "template_id": 20307966,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1945年4月23日至6月11日,中国共产党第七次全国代表大会在延安举行。中共七大的主要内容包括()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>决定在全党范围内开展整风运动</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>制定了党的政治路线</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>总结了党的建设的历史经验,把党在长期奋斗中形成的优良传统作风概括为三大作风</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>将毛泽东思想规定为党的一切工作的指针</p>"
+                    }
+                ],
+                "Version": "433d904f68aa4f44913dc7e345915fd7",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993551,
+                "max_retry": 1,
+                "TemplateID": 20307983,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993551,
+                "ProblemType": 2,
+                "template_id": 20307983,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党领导的民主政权实行“三三制”原则是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>土地革命时期</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>抗日战争时期</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>解放战争时期</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>大革命时期</p>"
+                    }
+                ],
+                "Version": "33839c37094f42119dd8f53bc1824595",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993537,
+                "max_retry": 1,
+                "TemplateID": 20307969,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993537,
+                "ProblemType": 1,
+                "template_id": 20307969,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>全国抗战爆发后,共产党领导的敌后战场取得的第一个大的胜利是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>平型关伏击战</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>百团大战</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>淞沪会战</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>台儿庄战役</p>"
+                    }
+                ],
+                "Version": "8636cd822c7c40718c4114f11265a571",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993520,
+                "max_retry": 1,
+                "TemplateID": 20307952,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993520,
+                "ProblemType": 1,
+                "template_id": 20307952,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>毛泽东明确地提出“马克思主义的中国化”这个命题是在中国共产党的()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>二大</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>六届六中全会</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>八七会议</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>七大</p>"
+                    }
+                ],
+                "Version": "2414d3e1088f49eaa5cb76fbb3b18e86",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993517,
+                "max_retry": 1,
+                "TemplateID": 20307949,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993517,
+                "ProblemType": 1,
+                "template_id": 20307949,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1939年7月,中共中央发表宣言,明确提出的口号是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>巩固国内团结,反对内部分裂</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>坚持抗战到底,反对中途妥协</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>放手发动群众,壮大人民力量</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>力求全国进步,反对向后倒退</p>"
+                    }
+                ],
+                "Version": "14351361d7a8412f95e1d4a5c8768543",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993548,
+                "max_retry": 1,
+                "TemplateID": 20307980,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993548,
+                "ProblemType": 2,
+                "template_id": 20307980,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国人民抗日战争取得完全胜利的标志是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>1945年8月14日,日本政府表示接受波茨坦公告</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1945年8月15日,日本天皇发表终战诏书</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1945年9月2日,日本向同盟国投降签字</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1945年10月25日,中国收回被日本占领的台湾及澎湖列岛</p>"
+                    }
+                ],
+                "Version": "5a991dd7dc164bf6b3c735c4c0d6669f",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993529,
+                "max_retry": 1,
+                "TemplateID": 20307961,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993529,
+                "ProblemType": 1,
+                "template_id": 20307961,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗战初期国民党正面战场上组织的会战是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>淞沪会战</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>忻口会战</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>徐州会战</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>武汉会战</p>"
+                    }
+                ],
+                "Version": "a64ac52ddc9b4088b6202127cff35bfe",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993544,
+                "max_retry": 1,
+                "TemplateID": 20307976,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993544,
+                "ProblemType": 2,
+                "template_id": 20307976,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗日民族统一战线中的进步势力,主要有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>工人</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>城市小资产阶级</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>农民</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>民族资产阶级</p>"
+                    }
+                ],
+                "Version": "23af40b66ee5437f89f36b1bdae2dfdf",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993553,
+                "max_retry": 1,
+                "TemplateID": 20307985,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993553,
+                "ProblemType": 2,
+                "template_id": 20307985,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗日战争进入相持阶段后,日本帝国主义对国民党采取的政策是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>军事打击为主,政治诱降为辅</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>政治诱降为主,军事打击为辅</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>政治诱降取代军事进攻</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>军事打击和政治诱降齐头并进</p>"
+                    }
+                ],
+                "Version": "572fc0bb52b245bfa86c76c67b87ed65",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993523,
+                "max_retry": 1,
+                "TemplateID": 20307955,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993523,
+                "ProblemType": 1,
+                "template_id": 20307955,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1927年日本召开“东方会议”,制定了()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>《大陆政策》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《昭和十二年度对华作战计划》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《对华政策纲要》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《反共产国际协定》</p>"
+                    }
+                ],
+                "Version": "1ebf5840c0c940d1964664bd9890911c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993521,
+                "max_retry": 1,
+                "TemplateID": 20307953,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993521,
+                "ProblemType": 1,
+                "template_id": 20307953,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗日民族统一战线正式形成的标志是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>国民党五届三中全会</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《中共中央为公布国共合作宣言》的发表</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>蒋介石在庐山发表谈话,承认中国共产党的合法地位</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>西安事变和平解决</p>"
+                    }
+                ],
+                "Version": "ea0283c8457a46f1a6f76e581e3cb2fe",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993554,
+                "max_retry": 1,
+                "TemplateID": 20307986,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993554,
+                "ProblemType": 2,
+                "template_id": 20307986,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>新民主主义革命的三大法宝是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>独立自主</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>武装斗争</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>统一战线</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>党的建设</p>"
+                    }
+                ],
+                "Version": "61081ed4a275410ab2578e32252f079d",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993545,
+                "max_retry": 1,
+                "TemplateID": 20307977,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993545,
+                "ProblemType": 2,
+                "template_id": 20307977,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>下列关于抗战历史意义的表述,不恰当的是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>是世界反法西斯战争的重要组成部分</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>增强了全国人民的自尊心和自信心</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>是中国人民近百年来第一次取得的反对帝国主义侵略斗争的完全胜利</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>结束了中国半殖民地半封建社会的历史</p>"
+                    }
+                ],
+                "Version": "2bd15a988f6a4459afe57c5424a9ef82",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993536,
+                "max_retry": 1,
+                "TemplateID": 20307968,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993536,
+                "ProblemType": 1,
+                "template_id": 20307968,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>以下对瓦窑堡会议的表述正确的有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>批评了党内长期存在的“左”倾冒险主义、关门主义的错误倾向</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>提出了在抗日的条件下与民族资产阶级重建统一战线的新政策</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>明确提出党的抗日总方针是“逼蒋抗日”</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国共产党在新的历史时期即将到来时掌握了政治上的主动权</p>"
+                    }
+                ],
+                "Version": "5ec0aadd66174963af9f4f0e4639fb07",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993556,
+                "max_retry": 1,
+                "TemplateID": 20307988,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993556,
+                "ProblemType": 2,
+                "template_id": 20307988,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党在抗日民族统一战线中的策略总方针是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>争取中间势力</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>孤立顽固势力</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>打击资产阶级</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>发展进步势力</p>"
+                    }
+                ],
+                "Version": "440bbbcdf3c14dc38ad51a9d824a1032",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993552,
+                "max_retry": 1,
+                "TemplateID": 20307984,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993552,
+                "ProblemType": 2,
+                "template_id": 20307984,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>毛泽东在《论持久战》中指出,抗日战争要经过三个阶段是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>战略防御</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>战略退却</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>战略相持</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>战略反攻</p>"
+                    }
+                ],
+                "Version": "4401b508767c46ceb5c9ba9ab17fd7c2",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993549,
+                "max_retry": 1,
+                "TemplateID": 20307981,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993549,
+                "ProblemType": 2,
+                "template_id": 20307981,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>近代以来中国第一次取得反侵略完全胜利的战争是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>抗日战争</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>中法战争</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>甲午战争</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>抗美援朝战争</p>"
+                    }
+                ],
+                "Version": "3a230411518942fab7faa3536cd9ec92",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993518,
+                "max_retry": 1,
+                "TemplateID": 20307950,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993518,
+                "ProblemType": 1,
+                "template_id": 20307950,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>延安整风运动是一场伟大的思想解放运动。这一运动最主要的任务是反对主观主义,主观主义的主要表现形式为()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "A",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>宗派主义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>形式主义</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>教条主义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>经验主义</p>"
+                    }
+                ],
+                "Version": "6643a7823a6f4e8598c42e5f32bdbda7",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993543,
+                "max_retry": 1,
+                "TemplateID": 20307975,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993543,
+                "ProblemType": 2,
+                "template_id": 20307975,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在新民主主义革命时期,曾以“团结的大会,胜利的大会”载入中国共产党史册的一次具有最重要意义的会议是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>党的“七大”</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>洛川会议</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>六届六中全会</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>瓦窑堡会议</p>"
+                    }
+                ],
+                "Version": "7e5571ad3ff04985b767c502d1727099",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993532,
+                "max_retry": 1,
+                "TemplateID": 20307964,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993532,
+                "ProblemType": 1,
+                "template_id": 20307964,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1936年,东北各抗日武装统一为()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>东北义勇军</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>东北抗日联军</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>东北人民革命军</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>抗日游击队</p>"
+                    }
+                ],
+                "Version": "6eed0002a09a42ad98d0c230fce6e69f",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993522,
+                "max_retry": 1,
+                "TemplateID": 20307954,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993522,
+                "ProblemType": 1,
+                "template_id": 20307954,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>确立毛泽东思想为全党的指导思想的会议是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>瓦窑堡会议</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中共七大</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>遵义会议</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>洛川会议</p>"
+                    }
+                ],
+                "Version": "23d1aed5cf2a458ab9307ace9a3167d2",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993526,
+                "max_retry": 1,
+                "TemplateID": 20307958,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993526,
+                "ProblemType": 1,
+                "template_id": 20307958,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>毛泽东在《论持久战》中分析交战的中日双方存在着相互矛盾的特点是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "D",
+                        "value": "<p>中国是正义战争,日本是侵略战争</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>抗日战争是持久战,最后胜利是中国的</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>战争要经过战略防御、战略相持、战略反攻</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>敌强我弱;敌退步我进步;敌小国我大国;敌寡助我多助</p>"
+                    }
+                ],
+                "Version": "c73495c5e2c54669b7061e4ae1385886",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993531,
+                "max_retry": 1,
+                "TemplateID": 20307963,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993531,
+                "ProblemType": 1,
+                "template_id": 20307963,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党内反复出现“左”、右倾错误的思想认识根源是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>经验主义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>宗派主义</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>主观主义</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>官僚主义</p>"
+                    }
+                ],
+                "Version": "49fd660a93464349a5e886201f9cc13a",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993540,
+                "max_retry": 1,
+                "TemplateID": 20307972,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993540,
+                "ProblemType": 1,
+                "template_id": 20307972,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗日战争时期,中国共产党解决农民问题的基本政策是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>土地国有</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>按人口平均分配土地</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>没收地主土地</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>减租减息</p>"
+                    }
+                ],
+                "Version": "0398c06bf21e40d68a627df3cdffc1de",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993533,
+                "max_retry": 1,
+                "TemplateID": 20307965,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993533,
+                "ProblemType": 1,
+                "template_id": 20307965,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党在抗日民族统一战线中必须坚持独立自主原则的实质是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "C",
+                        "value": "<p>防止国民党顽固派的反共政策</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>力争中国共产党对抗日战争的领导权</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>扩充自己的军事实力</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>独自抗击日本侵略者</p>"
+                    }
+                ],
+                "Version": "1d44eae7c87c480fba4dc5088e37feac",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993542,
+                "max_retry": 1,
+                "TemplateID": 20307974,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993542,
+                "ProblemType": 1,
+                "template_id": 20307974,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>20世纪30年代后期和40年代前期,毛泽东撰写的重要的理论的著作有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 3,
+                "index": 0,
+                "score": 3,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "B",
+                        "value": "<p>《〈共产党人〉发刊词》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《新民主主义论》</p>"
+                    },
+                    {
+                        "key": "A",
+                        "value": "<p>《反对本本主义》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《中国革命和中国共产党》</p>"
+                    }
+                ],
+                "Version": "72c3940352ff429084fbd3886e0660ea",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 188993546,
+                "max_retry": 1,
+                "TemplateID": 20307978,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 188993546,
+                "ProblemType": 2,
+                "template_id": 20307978,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            }
+        ],
+        "has_problem_dict": false,
+        "font": "",
+        "title": "第八专题"
+    }
+}

@@ -1,0 +1,2019 @@
+{
+    "errcode": 0,
+    "errmsg": "",
+    "data": {
+        "problems": [
+            {
+                "Body": "<p>1945年8月25日,中共中央在对时局的宣言中明确提出的口号是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>抗战、团结、进步</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>和平、民主、团结</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>向北发展、向南防御</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>打倒蒋介石、解放全中国</p>"
+                    }
+                ],
+                "Version": "56dc7b5f7d294754af1b9d3c0f888036",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014655,
+                "max_retry": 1,
+                "TemplateID": 20646587,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014655,
+                "ProblemType": 1,
+                "template_id": 20646587,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1945年10月10日,国共两党在重庆谈判的基础上签署的文件是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《为公布国共合作宣言》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《政府与中共代表会谈纪要》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《和平建国纲领》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《国内和平协定》</p>"
+                    }
+                ],
+                "Version": "ebfaf97199b14bbab681ed3707208f85",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014656,
+                "max_retry": 1,
+                "TemplateID": 20646588,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014656,
+                "ProblemType": 1,
+                "template_id": 20646588,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1945年8月至10月,国共双方举行了确认和平建国基本方针的()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>西安谈判</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>重庆谈判</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>南京谈判</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>北平谈判</p>"
+                    }
+                ],
+                "Version": "bec7d40edcee4ef2982b482d563e912b",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014657,
+                "max_retry": 1,
+                "TemplateID": 20646589,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014657,
+                "ProblemType": 1,
+                "template_id": 20646589,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1946年6月26日,国民党军队挑起全国性内战的起点是大举进攻()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>东北解放区</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中原解放区</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>陕北解放区</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>山东解放区</p>"
+                    }
+                ],
+                "Version": "78dbaac98ba5450b9fe41a7ae28577e9",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014658,
+                "max_retry": 1,
+                "TemplateID": 20646590,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014658,
+                "ProblemType": 1,
+                "template_id": 20646590,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在1947年6月底揭开人民解放战争战略进攻序幕的是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>晋冀鲁豫野战军千里跃进大别山</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>西北野战军粉碎敌人的重点进攻</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>晋察冀野战军攻占石家庄</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>东北野战军发起辽沈战役</p>"
+                    }
+                ],
+                "Version": "5ccc817838194b2da90f9f8a9c108b9c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014659,
+                "max_retry": 1,
+                "TemplateID": 20646591,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014659,
+                "ProblemType": 1,
+                "template_id": 20646591,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1947年10月10日,中国人民解放军总部发表宣言,提出的口号是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>向北发展、向南防御</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>打倒蒋介石、解放全中国</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>将革命进行到底</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>打过长江去、解放全中国</p>"
+                    }
+                ],
+                "Version": "4cbebba0f74c47559564f21c66419ea9",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014660,
+                "max_retry": 1,
+                "TemplateID": 20646592,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014660,
+                "ProblemType": 1,
+                "template_id": 20646592,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1946年5月4日,中共中央发出了决定将减租减息政策改变为“耕者有其田”政策的()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《井冈山土地法》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《兴国土地法》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《关于土地问题的指示》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《中国土地法大纲》</p>"
+                    }
+                ],
+                "Version": "73deaa99580c4d0f8e100917916254b4",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014661,
+                "max_retry": 1,
+                "TemplateID": 20646593,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014661,
+                "ProblemType": 1,
+                "template_id": 20646593,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党在1947年7月至9月召开的全国土地会议上制定和通过了()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《井冈山土地法》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《兴国土地法》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《关于清算、减租及土地问题的指示》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《中国土地法大纲》</p>"
+                    }
+                ],
+                "Version": "2d34ed557dc34683ab0a47b5f3dcecdb",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014662,
+                "max_retry": 1,
+                "TemplateID": 20646594,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014662,
+                "ProblemType": 1,
+                "template_id": 20646594,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1945年,在昆明发生了吹响国统区爱国学生运动第一声号角的()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>一二九运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>一二·一运动</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>一二三○运动</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>五二○运动</p>"
+                    }
+                ],
+                "Version": "2583dfe515b6403c9a201fd34be3fb49",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014663,
+                "max_retry": 1,
+                "TemplateID": 20646595,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014663,
+                "ProblemType": 1,
+                "template_id": 20646595,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1946年,北平学生发动的抗议驻华美军暴行的斗争运动是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>一二九运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>一二一运动</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>一二三○运动</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>五二○运动</p>"
+                    }
+                ],
+                "Version": "2c478bc3994c47e392d46d3524d4a233",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014665,
+                "max_retry": 1,
+                "TemplateID": 20646596,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014665,
+                "ProblemType": 1,
+                "template_id": 20646596,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1947年10月以后,国统区爱国学生运动的主要斗争口号是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>反饥饿</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>反内战</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>反迫害</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>反独裁</p>"
+                    }
+                ],
+                "Version": "79fda428d88a4f36b88b5e75736aadb0",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014667,
+                "max_retry": 1,
+                "TemplateID": 20646597,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014667,
+                "ProblemType": 1,
+                "template_id": 20646597,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1948年1月1日在香港正式成立的民主党派是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中国民主同盟</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国民主建国会</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中国民主促进会</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国国民党革命委员会</p>"
+                    }
+                ],
+                "Version": "24e656c604bb4abcadd544283dc46733",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014669,
+                "max_retry": 1,
+                "TemplateID": 20646598,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014669,
+                "ProblemType": 1,
+                "template_id": 20646598,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1945年12月在重庆正式成立的民主党派是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中国民主同盟</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国民主建国会</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中国民主促进会</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国国民党革命委员会</p>"
+                    }
+                ],
+                "Version": "59c81687a7e5420c9dc410d202a560a3",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014671,
+                "max_retry": 1,
+                "TemplateID": 20646599,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014671,
+                "ProblemType": 1,
+                "template_id": 20646599,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1945年12月在上海正式成立的民主党派是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中国民主同盟</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国民主建国会</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中国民主促进会</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国国民党革命委员会</p>"
+                    }
+                ],
+                "Version": "0ce8d373f2124d6eac1301587bca5772",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014672,
+                "max_retry": 1,
+                "TemplateID": 20646600,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014672,
+                "ProblemType": 1,
+                "template_id": 20646600,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1946年5月4日在重庆正式成立的民主党派是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中国民主同盟</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国民主建国会</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中国民主促进会</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>九三学社</p>"
+                    }
+                ],
+                "Version": "13ae6f0e9a3f44b6a11b26a8b284f077",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014675,
+                "max_retry": 1,
+                "TemplateID": 20646601,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014675,
+                "ProblemType": 1,
+                "template_id": 20646601,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1947年11月在香港正式成立的民主党派是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中国民主同盟</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国民主建国会</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>台湾民主自治同盟</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国国民党革命委员会</p>"
+                    }
+                ],
+                "Version": "9ce7387e4c654db1b628c40dc7b0d705",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014677,
+                "max_retry": 1,
+                "TemplateID": 20646602,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014677,
+                "ProblemType": 1,
+                "template_id": 20646602,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1947年11月成立的台湾民主自治同盟的主要领导人是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>黄炎培</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>马叙伦</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>许德珩</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>谢雪红</p>"
+                    }
+                ],
+                "Version": "f157fdeb6e7843aa8fbd26deb8f4ebe2",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014679,
+                "max_retry": 1,
+                "TemplateID": 20646603,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014679,
+                "ProblemType": 1,
+                "template_id": 20646603,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在1947年10月被国民党当局宣布为“为非法团体”并明令“严加取缔”的民主党派是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中国民主同盟</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国民主建国会</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中国民主促进会</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国国民党革命委员会</p>"
+                    }
+                ],
+                "Version": "12b2654214cc4cdea0499b95bcf9706c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014681,
+                "max_retry": 1,
+                "TemplateID": 20646604,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014681,
+                "ProblemType": 1,
+                "template_id": 20646604,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>全国解放战争时期,中国民主同盟站到新民主主义革命立场上来的标志是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中国民盟一届一中全会的召开</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国民盟一届二中全会的召开</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中国民盟一届三中全会的召开</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国民盟一届四中全会的召开</p>"
+                    }
+                ],
+                "Version": "2ccecbc9fc86488e87525faa013826db",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014683,
+                "max_retry": 1,
+                "TemplateID": 20646605,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014683,
+                "ProblemType": 1,
+                "template_id": 20646605,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1949年1月,李济深等联合发表了拥护中共召开政治协商会议、成立联合政府主张的()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《对目前时局的宣言》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《和平建国纲领》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《对时局的意见》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《国内和平协定》</p>"
+                    }
+                ],
+                "Version": "abd561f90bf84d91b0cf0c40f5d1f76e",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014685,
+                "max_retry": 1,
+                "TemplateID": 20646606,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014685,
+                "ProblemType": 1,
+                "template_id": 20646606,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国共产党领导的人民解放战争进入夺取全国胜利的决定性阶段是在()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>1946年秋季</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1947年春季</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1948年秋季</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1949年春季</p>"
+                    }
+                ],
+                "Version": "0606be9b5e9e470ebb854b0bc7d69685",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014687,
+                "max_retry": 1,
+                "TemplateID": 20646607,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014687,
+                "ProblemType": 1,
+                "template_id": 20646607,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1948年9月12日至11月2日,中国人民解放军发动的战略决战战役是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>济南战役</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>辽沈战役</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>淮海战役</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>平津战役</p>"
+                    }
+                ],
+                "Version": "91dd14b31b0a4a2b965c6777c51eb91c",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014689,
+                "max_retry": 1,
+                "TemplateID": 20646608,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014689,
+                "ProblemType": 1,
+                "template_id": 20646608,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1948年11月6日至1949年1月10日,中国人民解放军发动的战略决战战役是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>济南战役</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>辽沈战役</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>淮海战役</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>平津战役</p>"
+                    }
+                ],
+                "Version": "01ba637c04034dd5814805959664acab",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014691,
+                "max_retry": 1,
+                "TemplateID": 20646609,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014691,
+                "ProblemType": 1,
+                "template_id": 20646609,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1948年11月29日至1949年1月31日,中国人民解放军发动的战略决战战役是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>济南战役</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>辽沈战役</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>淮海战役</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>平津战役</p>"
+                    }
+                ],
+                "Version": "9c26941450cf49279b06546dcc6d7b69",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014693,
+                "max_retry": 1,
+                "TemplateID": 20646610,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014693,
+                "ProblemType": 1,
+                "template_id": 20646610,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1949年4月21日,毛泽东和朱德向人民解放军发布了()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《对目前时局的宣言》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《中国人民解放军总部宣言》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《将革命进行到底》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《向全国进军的命令》</p>"
+                    }
+                ],
+                "Version": "48709084df594e81a049305f7adc5c64",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014695,
+                "max_retry": 1,
+                "TemplateID": 20646611,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014695,
+                "ProblemType": 1,
+                "template_id": 20646611,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国人民解放军占领南京、宣告国民党的反动统治覆灭是在()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>1949年4月20日</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>1949年4月21日</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>1949年4月22日</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>1949年4月23日</p>"
+                    }
+                ],
+                "Version": "99b40dacd0744ab08eeae75470570ae7",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014697,
+                "max_retry": 1,
+                "TemplateID": 20646612,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014697,
+                "ProblemType": 1,
+                "template_id": 20646612,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1949年6月30日,毛泽东发表了系统阐明中国共产党关于建立新中国主张的()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《对目前时局的宣言》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《目前形势和我们的任务》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《将革命进行到底》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《论人民民主专政》</p>"
+                    }
+                ],
+                "Version": "2a1f079cad204da1b0c197631872358a",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014699,
+                "max_retry": 1,
+                "TemplateID": 20646613,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014699,
+                "ProblemType": 1,
+                "template_id": 20646613,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在1949年9月制定的、正式确立中国共产党在全国执政地位的法律文献是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 1,
+                "index": 0,
+                "score": 1,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《和平建国纲领》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《中国人民政治协商会议共同纲领》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《中央人民政府组织法》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《中华人民共和国宪法》</p>"
+                    }
+                ],
+                "Version": "c23d8f310857401e8995aefb873e4924",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014701,
+                "max_retry": 1,
+                "TemplateID": 20646614,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014701,
+                "ProblemType": 1,
+                "template_id": 20646614,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗日战争胜利后,美国政府在选择对华政策时,首先便表示要“避免共产党完全控制中国”,其原因是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>为了让蒋介石政府成为其在亚洲的主要支持者,以此稳定其亚洲战线·</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>“遏制苏联”,以防苏联影响其在亚洲的战略地位·</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>维护其在中国的殖民主义利益</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>便于使战后中国成为其倾销商品、获取廉价原料和进行自由投资的场所</p>"
+                    }
+                ],
+                "Version": "8b893701a8064e569ea39c651e6fe1af",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014703,
+                "max_retry": 1,
+                "TemplateID": 20646615,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014703,
+                "ProblemType": 2,
+                "template_id": 20646615,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗日战争胜利后的政治形势,总的来说,对中国人民实现建设新中国的目标是有利的,表现在()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>帝国主义遭到削弱</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>社会主义国家、民族解放运动的力量有了新的发展·</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中国人民的觉悟程度、组织程度空前提高</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国共产党在毛泽东思想的基础上达到了高度的团结</p>"
+                    }
+                ],
+                "Version": "42ead3f0b6da43d79e00292850ddc24d",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014705,
+                "max_retry": 1,
+                "TemplateID": 20646616,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014705,
+                "ProblemType": 2,
+                "template_id": 20646616,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1945年8月25日,中共中央在对时局的宣言中明确提出的口号是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>独立</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>和平</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>民主</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>团结</p>"
+                    }
+                ],
+                "Version": "6e2edc227d9d49188d10f2d2235a1c4d",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014707,
+                "max_retry": 1,
+                "TemplateID": 20646617,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014707,
+                "ProblemType": 2,
+                "template_id": 20646617,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1946年1月10日政治协商会议在重庆开幕,出席会议的主要党派有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中国国民党</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国共产党</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>中国民主同盟</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国青年党</p>"
+                    }
+                ],
+                "Version": "1a0560fb707c408597e156bb4e635f02",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014708,
+                "max_retry": 1,
+                "TemplateID": 20646618,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014708,
+                "ProblemType": 2,
+                "template_id": 20646618,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在1947年6月底揭开人民解放战争战略进攻序幕的是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>林、罗大军挺进东北</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>刘、邓大军主力挺进大别山</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>陈、粟大军主力挺进苏鲁豫皖地区</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>陈、谢兵团挺进豫西</p>"
+                    }
+                ],
+                "Version": "5fac808ad186469c9128ec9b6cc1772c",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014709,
+                "max_retry": 1,
+                "TemplateID": 20646619,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014709,
+                "ProblemType": 2,
+                "template_id": 20646619,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>全国解放战争时期,在国民党统治区爆发的爱国学生运动有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>一二九运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>一二·一运动</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>一二三○运动</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>五二○运动</p>"
+                    }
+                ],
+                "Version": "29a3a697e865413c8771b7c1d47aa26d",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014710,
+                "max_retry": 1,
+                "TemplateID": 20646620,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014710,
+                "ProblemType": 2,
+                "template_id": 20646620,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>抗日战争胜利后正式成立的民主党派包括()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中国民主建国会</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中国民主促进会</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>台湾民主自治同盟</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>中国国民党革命委员会</p>"
+                    }
+                ],
+                "Version": "8367170f883a4985b402aee9999cfd64",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014711,
+                "max_retry": 1,
+                "TemplateID": 20646621,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014711,
+                "ProblemType": 2,
+                "template_id": 20646621,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1948年4月30日,中共中央在纪念五一国际劳动节的口号中提出的主张包括()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>召开政治协商会议</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>召集人民代表大会</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>成立民主联合政府</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>制定和平建国纲领</p>"
+                    }
+                ],
+                "Version": "8a7a95ad936e4af6b614936c9ff39684",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014712,
+                "max_retry": 1,
+                "TemplateID": 20646622,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014712,
+                "ProblemType": 2,
+                "template_id": 20646622,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1948年9月12日至1949年1月31日,中国人民解放军发动的三大战略决战是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>辽沈战役</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>淮海战役</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>平津战役</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>渡江战役</p>"
+                    }
+                ],
+                "Version": "10bbaf49d95b4154b0045946bf33c4a2",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014713,
+                "max_retry": 1,
+                "TemplateID": 20646623,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014713,
+                "ProblemType": 2,
+                "template_id": 20646623,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在领导淮海战役的总前委成员中,除了担任书记的邓小平外还包括()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>刘伯承</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>谭震林</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>陈毅</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>粟裕</p>"
+                    }
+                ],
+                "Version": "ca33f1850ba541e8975a57ec3959faf0",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014714,
+                "max_retry": 1,
+                "TemplateID": 20646624,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014714,
+                "ProblemType": 2,
+                "template_id": 20646624,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在1948年11月至1949年1月领导平津战役的总前委成员是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>罗荣桓</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>谭震林</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>林彪</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>聂荣臻</p>"
+                    }
+                ],
+                "Version": "7c54039b047f489f882923c6ca603df7",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014715,
+                "max_retry": 1,
+                "TemplateID": 20646625,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014715,
+                "ProblemType": 2,
+                "template_id": 20646625,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1949年3月召开的中共七届二中全会的主要内容是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>规定了全国胜利后应当采取的基本政策</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>分析了中国由农业国转变为工业国的任务</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>指明了向社会主义社会转变的发展方向</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>提出了“两个务必”的要求</p>"
+                    }
+                ],
+                "Version": "029c03fccbe544e9938556ac7722c4a4",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014716,
+                "max_retry": 1,
+                "TemplateID": 20646626,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014716,
+                "ProblemType": 2,
+                "template_id": 20646626,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1949年9月制定的《中国人民政治协商会议共同纲领》的主要内容是关于新中国()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>基本民族政策的规定</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>国体和政体的规定</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>经济工作方针的规定</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>外交工作原则的规定</p>"
+                    }
+                ],
+                "Version": "e1b5282f2e1142dd987fb6508c5d2223",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014717,
+                "max_retry": 1,
+                "TemplateID": 20646627,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014717,
+                "ProblemType": 2,
+                "template_id": 20646627,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1947年7月至9月,中国共产党在河北省平山县召开全国土地会议,制定和通过了《中国土地法大纲》,明确规定)()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>废除封建性及半封建性剥削的土地制度·</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>实现“耕者有其田”的土地制度</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>将党在抗日战争时期实行的减租减息政策改变为实现“耕者有其田”的政策</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>乡村中一切地主的土地及公地,由乡村农会接收</p>"
+                    }
+                ],
+                "Version": "aa53c5ca8de44e7883cc4b267cdf2151",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014718,
+                "max_retry": 1,
+                "TemplateID": 20646628,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014718,
+                "ProblemType": 2,
+                "template_id": 20646628,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在党的七届二中全会上,毛泽东提出了“两个务必”的思想,指的是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>务必保持中国共产党在国家政权中的领导地位</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>务必使同志们继续地保持谦虚、谨慎、不骄、不躁的作风·</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>务必使同志们继续地保持艰苦奋斗的作风·</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>务必坚持走社会主义道路</p>"
+                    }
+                ],
+                "Version": "63d08cfdb59f4f0396e3229e3c667053",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014719,
+                "max_retry": 1,
+                "TemplateID": 20646629,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014719,
+                "ProblemType": 2,
+                "template_id": 20646629,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国新民主主义革命胜利的主要原因是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中国共产党的正确领导</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>广大人民群众的广泛参加和大力支持</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>反革命势力的分化瓦解</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>国际无产阶级和人民群众的支持</p>"
+                    }
+                ],
+                "Version": "7aaa6c39f0ca490ca70cd26399ab9b32",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014720,
+                "max_retry": 1,
+                "TemplateID": 20646630,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014720,
+                "ProblemType": 2,
+                "template_id": 20646630,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国新民主主义革命胜利的基本经验是坚持()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>建立广泛的统一战线·</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>群众路线</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>加强共产党自身的建设·</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>坚持革命的武装斗争</p>"
+                    }
+                ],
+                "Version": "ac4320e1c96740a4827a6c244215629e",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 191014721,
+                "max_retry": 1,
+                "TemplateID": 20646631,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 191014721,
+                "ProblemType": 2,
+                "template_id": 20646631,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            }
+        ],
+        "has_problem_dict": false,
+        "font": "",
+        "title": "第九专题"
+    }
+}

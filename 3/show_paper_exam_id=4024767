@@ -1,0 +1,1801 @@
+{
+    "errcode": 0,
+    "errmsg": "",
+    "data": {
+        "problems": [
+            {
+                "Body": "<p>1843年,洪秀全、冯云山创立()\n\n</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>拜上帝教</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>捻党</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>太平天国</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>强国会</p>"
+                    }
+                ],
+                "Version": "5e3137f139d14b66beb9c88b16944c12",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588968,
+                "max_retry": 1,
+                "TemplateID": 19685918,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588968,
+                "ProblemType": 1,
+                "template_id": 19685918,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1851年1月11日,洪秀全在广西领导农民起义的地点()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>金田村</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>永安</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>安庆</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>武昌</p>"
+                    }
+                ],
+                "Version": "a9a5fdf070cd43349e7ecd81a2ad43bc",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588969,
+                "max_retry": 1,
+                "TemplateID": 9979866,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588969,
+                "ProblemType": 1,
+                "template_id": 9979866,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1853年3月,洪秀全领导太平天国建都(改称天京)于()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>金田</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>武昌</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>安庆</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>南京</p>"
+                    }
+                ],
+                "Version": "287c38246d494e73a52c4697b6bb6913",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588970,
+                "max_retry": 1,
+                "TemplateID": 9979867,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588970,
+                "ProblemType": 1,
+                "template_id": 9979867,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1853年3月,太平天国颁布的革命纲领性文件是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《原道觉世训》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《天朝田亩制度》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《资政新篇》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《原道醒世训》</p>"
+                    }
+                ],
+                "Version": "997f38b2fd594ef0be601e001c9a0ef9",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588971,
+                "max_retry": 1,
+                "TemplateID": 9979868,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588971,
+                "ProblemType": 1,
+                "template_id": 9979868,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1862年,清政府在北京设立同文馆,培养()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>科技人才</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>政治人才</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>翻译人才</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>军事人才</p>"
+                    }
+                ],
+                "Version": "1675a4ea14d348df9fab93907aeb8096",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588972,
+                "max_retry": 1,
+                "TemplateID": 9979869,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588972,
+                "ProblemType": 1,
+                "template_id": 9979869,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>洋务运动破产的标志是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>鸦片战争失败</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>中法战争失败</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>甲午战争失败</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>八国联军侵华战争失败</p>"
+                    }
+                ],
+                "Version": "339100d67bf44ca3ad2974e4da6fcbd5",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588973,
+                "max_retry": 1,
+                "TemplateID": 9979870,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588973,
+                "ProblemType": 1,
+                "template_id": 9979870,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>洋务运动主要引进西方的()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>器物技术</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>政治制度</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>政治思想</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>军事理论</p>"
+                    }
+                ],
+                "Version": "a8cabbb8655049c9b63ac866014900d2",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588974,
+                "max_retry": 1,
+                "TemplateID": 9979871,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588974,
+                "ProblemType": 1,
+                "template_id": 9979871,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1895年,甲午战争失败后,清政府与日本签定()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《南京条约》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《马关条约》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《辛丑条约》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《二十一条》</p>"
+                    }
+                ],
+                "Version": "8959b2ac24f8479da25ccf48ed2888fd",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588975,
+                "max_retry": 1,
+                "TemplateID": 9979872,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588975,
+                "ProblemType": 1,
+                "template_id": 9979872,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>维新变法时期,维新派提出的政治主张是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>君主立宪</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>民主共和</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>人民民主</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>宪政民主</p>"
+                    }
+                ],
+                "Version": "c62a9ce4736c4da2852582e98f93df08",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588976,
+                "max_retry": 1,
+                "TemplateID": 9979873,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588976,
+                "ProblemType": 1,
+                "template_id": 9979873,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>中国近代史上第一次资产阶级启蒙运动是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>洋务运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>维新运动</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>辛亥革命</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>五四运动</p>"
+                    }
+                ],
+                "Version": "df0b7ad56f07472f9cbb0331dc5d724f",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588977,
+                "max_retry": 1,
+                "TemplateID": 9979874,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588977,
+                "ProblemType": 1,
+                "template_id": 9979874,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1898年9月21日,戊戌维新运动夭折,前后持续了仅()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>100天</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>101天</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>102天</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>103天</p>"
+                    }
+                ],
+                "Version": "0a707cd77ff64290af8e1004025af696",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588978,
+                "max_retry": 1,
+                "TemplateID": 9979875,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588978,
+                "ProblemType": 1,
+                "template_id": 9979875,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>《天朝田亩制度》解决的中心问题是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>政治问题</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>经济问题</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>军事问题</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>土地问题</p>"
+                    }
+                ],
+                "Version": "2bf30fdcb5364525b4ca6b6a273cd641",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588979,
+                "max_retry": 1,
+                "TemplateID": 9979876,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588979,
+                "ProblemType": 1,
+                "template_id": 9979876,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>1898年6月下“明定国是”诏,宣布变法维新的皇帝是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>康熙帝</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>乾隆帝</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>光绪帝</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>溥仪帝</p>"
+                    }
+                ],
+                "Version": "c3cd040d366b45b68d65c4b0fb1cebf1",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588980,
+                "max_retry": 1,
+                "TemplateID": 9979877,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588980,
+                "ProblemType": 1,
+                "template_id": 9979877,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>太平天国运动不同于以前农民战争的是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>有了反封建内容</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>有了反侵略爱国内容</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>有了资产阶级领导</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>有了无产阶级领导</p>"
+                    }
+                ],
+                "Version": "6322331cd3bf46e6aacfa7503d3aa17f",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588981,
+                "max_retry": 1,
+                "TemplateID": 9979878,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588981,
+                "ProblemType": 1,
+                "template_id": 9979878,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>太平天国革命后期的纲领《资政新篇》的作者是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>洪秀全</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>冯云山</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>洪仁玕</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>石达开</p>"
+                    }
+                ],
+                "Version": "e14637c5a2664d96b46fb4f0f7b7acf9",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588982,
+                "max_retry": 1,
+                "TemplateID": 9979880,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588982,
+                "ProblemType": 1,
+                "template_id": 9979880,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>“中学为体,西学为用”思想的提出者属于()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>农民阶级革命派</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>资产阶级改良派</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>洋务派</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>地主阶级保守派</p>"
+                    }
+                ],
+                "Version": "17b454fd35d84b90b34790a7f1364daa",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588983,
+                "max_retry": 1,
+                "TemplateID": 9979882,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588983,
+                "ProblemType": 1,
+                "template_id": 9979882,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>戊戌维新运动的性质是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>农民阶级反封建斗争</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>地主阶级改良运动</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>资产阶级改良运动</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>资产阶级革命运动</p>"
+                    }
+                ],
+                "Version": "4fce785f5e9340b68f30061039f9111a",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588984,
+                "max_retry": 1,
+                "TemplateID": 9979883,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588984,
+                "ProblemType": 1,
+                "template_id": 9979883,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>洋务运动举办的规模最大的军火工厂是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>天津机器局</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>江南制造总局</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>金陵机器局</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>福州船政局</p>"
+                    }
+                ],
+                "Version": "44833765201441b78dcf2b5173e0c2fe",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588985,
+                "max_retry": 1,
+                "TemplateID": 9979884,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588985,
+                "ProblemType": 1,
+                "template_id": 9979884,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>近代中国知识分子的第一次群众性爱国运动是指()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>义和团运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>公车上书</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>洋务运动</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>五四运动</p>"
+                    }
+                ],
+                "Version": "675514adb9074b1d8a20c5a9b3ef6405",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588986,
+                "max_retry": 1,
+                "TemplateID": 9979886,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588986,
+                "ProblemType": 1,
+                "template_id": 9979886,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>太平天国运动失败的根本原因是()</p>",
+                "Type": "SingleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>农民阶级的局限性</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>战略失误导致北伐失利</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>遭到中外反动势力的联合绞杀</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>领导集团的内部斗争</p>"
+                    }
+                ],
+                "Version": "b3bb5220033c4a498b09c7e7c91e2d22",
+                "TypeText": "单选题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588987,
+                "max_retry": 1,
+                "TemplateID": 9979887,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588987,
+                "ProblemType": 1,
+                "template_id": 9979887,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>太平天国政权颁布的纲领性文献有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>《天朝田亩制度》</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>《醒道觉世训》</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《劝世良言》</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>《资政新篇》</p>"
+                    }
+                ],
+                "Version": "eab8968dc0644061bb25cc1815cb0561",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588988,
+                "max_retry": 1,
+                "TemplateID": 9979890,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588988,
+                "ProblemType": 2,
+                "template_id": 9979890,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>下列关于《天朝田亩制度》叙述正确的是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>确定了平均分配土地的方案</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>是以解决土地问题为中心的比较完整的社会改革方案</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>具有空想性质,不可能实现</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>它的主张从根本上否定了封建社会的基础——地主的土地所有制</p>"
+                    }
+                ],
+                "Version": "788a8dfa81b84a328dd92ea690ff59ed",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588989,
+                "max_retry": 1,
+                "TemplateID": 9979891,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588989,
+                "ProblemType": 2,
+                "template_id": 9979891,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>太平天国农民战争爆发的原因有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>鸦片战争失败以后,为支付对列强的巨额赔款,同时也为了弥补财政亏空,清政府加重了赋税的征收</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>各级官吏在征收钱粮时往往浮收勒扣,横征暴敛,农民的负担更为加重</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>由于西方资本主义的入侵,中国的农业和家庭手工业相结合的自然经济逐渐解体</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>满汉民族矛盾</p>"
+                    }
+                ],
+                "Version": "549ad0bd1170454daa79e79e39f1052b",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588990,
+                "max_retry": 1,
+                "TemplateID": 9979892,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588990,
+                "ProblemType": 2,
+                "template_id": 9979892,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>太平天国运动失败的主要原因是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>中外反动势力的联合镇压</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>没有科学的理论指导</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>对于西方资本主义侵略者缺乏理性认识</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>太平天国政权的日益封建化</p>"
+                    }
+                ],
+                "Version": "61720af121d04f78af3f45c7ac06ed58",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588991,
+                "max_retry": 1,
+                "TemplateID": 9979893,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588991,
+                "ProblemType": 2,
+                "template_id": 9979893,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>与以往农民战争相比,太平天国运动新的时代特点表现在()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>发动规模空前巨大</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>反对封建主义同时反对帝国主义侵略</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>《天朝田亩制度》的平均主义思想以及《资政新编》的资本主义色彩</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>一定程度上削弱了封建统治的精神支柱</p>"
+                    }
+                ],
+                "Version": "012c21e442964956af3f0b68cf1329b0",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588992,
+                "max_retry": 1,
+                "TemplateID": 9979894,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588992,
+                "ProblemType": 2,
+                "template_id": 9979894,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>太平天国起义及其失败表明()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>农民具有伟大的革命潜力</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>农民不能担负起领导反帝反封建斗争取得胜利的重任</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>单纯的农民战争不可能完成争取民族独立和人民解放的历史任务</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>农民是中国革命的主力军</p>"
+                    }
+                ],
+                "Version": "c58925a3142f4d0197b2b6103475567a",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588993,
+                "max_retry": 1,
+                "TemplateID": 9979895,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588993,
+                "ProblemType": 2,
+                "template_id": 9979895,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>从19世纪60年代到90年代,洋务派举办的洋务事业有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>兴办军用、民用企业</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>建立新式海军</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>创办新式学堂</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>派遣留学生</p>"
+                    }
+                ],
+                "Version": "e79cee5bfa974eb39a8788e7b0ff4c06",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588994,
+                "max_retry": 1,
+                "TemplateID": 9979896,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588994,
+                "ProblemType": 2,
+                "template_id": 9979896,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>下列关于洋务运动叙述正确的是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>洋务运动是封建统治阶级为了维护自己的统治而进行的一场自救运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>是由资产阶级发动的</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>口号是“自强”和“求富”</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>触及到了封建统治的根基</p>"
+                    }
+                ],
+                "Version": "23d30e0ec7ab4c958848d0db7278b4c4",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588995,
+                "max_retry": 1,
+                "TemplateID": 9979897,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588995,
+                "ProblemType": 2,
+                "template_id": 9979897,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>康有为、梁启超、谭嗣同、严复等维新派通过哪些行动宣传变法维新主张()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>向皇帝上书</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>著书立说</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>介绍外国的变法的经验教训</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>办学会、办报纸、设学堂</p>"
+                    }
+                ],
+                "Version": "a52d0dc74413460b8721b265e0835d84",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588996,
+                "max_retry": 1,
+                "TemplateID": 9979898,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588996,
+                "ProblemType": 2,
+                "template_id": 9979898,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>19世纪90年代,资产阶级维新派与封建守旧派激烈论战主要问题是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>要不要变法</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>要不要实行民主共和</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>要不要废八股、改科举和兴西学</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>要不要兴民权、设议院,实行君主立宪</p>"
+                    }
+                ],
+                "Version": "24185e6fe6af4dcea8e11ef3a0c2beb4",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588997,
+                "max_retry": 1,
+                "TemplateID": 9979899,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588997,
+                "ProblemType": 2,
+                "template_id": 9979899,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>近代中国戊戌变法主要内容有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>政治上,改革政治机构,裁撤冗官,任用维新人士</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>经济上,鼓励私人兴办工矿企业</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>文化教育方面,创设京师大学堂,在各地设立中、小学堂;提倡西学,翻译西方书籍,传播新思想</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>军事上,训练新式军队</p>"
+                    }
+                ],
+                "Version": "8db4e8c994ac45f7af16d2414e0e13c6",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588998,
+                "max_retry": 1,
+                "TemplateID": 9979900,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588998,
+                "ProblemType": 2,
+                "template_id": 9979900,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>戊戌维新运动在中国近代史上的重大历史意义,主要体现在戊戌维新运动是一场()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>反对帝国主义的革命运动</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>爱国救亡运动</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>资产阶级性质的政治改革运动</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>思想启蒙运动</p>"
+                    }
+                ],
+                "Version": "2769ec090ce8470ab2c20d030ac18d40",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183588999,
+                "max_retry": 1,
+                "TemplateID": 9979901,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183588999,
+                "ProblemType": 2,
+                "template_id": 9979901,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>下列关于戊戌维新运动中维新派与守旧派论战的表述正确的是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>论战的实质是资产阶级思想与封建主义思想在中国的第一次正面交锋</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>论战主要围绕要不要变法;要不要兴民权、设议院,实行君主立宪;要不要废八股、改科举和兴西学等问题展开</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>论战所涉及的领域十分广泛,进一步开阔了新型知识分子的眼界,解放了人们长期受到束缚的思想</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>通过论战,西方资产阶级社会政治学说在中国得到进一步的传播,维新变法政治运动的帷幕随之拉开</p>"
+                    }
+                ],
+                "Version": "df79b9e72cf2421ebdcdba9fe9b9ac5b",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183589000,
+                "max_retry": 1,
+                "TemplateID": 9979902,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183589000,
+                "ProblemType": 2,
+                "template_id": 9979902,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>戊戌维新运动的失败,主要是由于维新派自身的局限和以慈禧太后为首的强大的守旧势力的反对,其中维新派的局限性体现在()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>不敢否定封建主义</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>对帝国主义抱有幻想</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>害怕人民群众</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>民族资产阶级力量弱小</p>"
+                    }
+                ],
+                "Version": "8107a1727c3147329e6c5bd4651734e6",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183589001,
+                "max_retry": 1,
+                "TemplateID": 9979906,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183589001,
+                "ProblemType": 2,
+                "template_id": 9979906,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>下列关于戊戌变法的说法正确的是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>“公车上书”为变法维新运动揭开了序幕</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>戊戌变法从开始到失败历时103天</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>慈禧太后为首的保守势力镇压了戊戌变法</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>是中国民族资产阶级登上政治舞台的第一次表演</p>"
+                    }
+                ],
+                "Version": "be1b2339f1cf49aba7843d2668be7dbf",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183589002,
+                "max_retry": 1,
+                "TemplateID": 9979908,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183589002,
+                "ProblemType": 2,
+                "template_id": 9979908,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>太平天国的历史意义有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>沉重打击了封建统治阶级,强烈撼动了清政府的统治根基</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>比较完整地表达了千百年来农民对拥有土地的渴望</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>冲击了孔子和儒家经典的正统权威,在一定程度是削弱了封建统治的精神支柱</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>有力打击了外国侵略势力,冲击了西方殖民主义在亚洲的统治</p>"
+                    }
+                ],
+                "Version": "98d8e2f8445b445aabd2cce8fab872dc",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183589003,
+                "max_retry": 1,
+                "TemplateID": 9979910,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183589003,
+                "ProblemType": 2,
+                "template_id": 9979910,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>洋务运动的历史地位()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>是近代中国人探索国家出路的一次尝试。</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>客观上促进了中国早期工业和民族资本主义的发展。</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>是中国近代教育的开始</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>传统观念受到冲击。</p>"
+                    }
+                ],
+                "Version": "49f41992399c4f4eb56c2646cb45794c",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183589004,
+                "max_retry": 1,
+                "TemplateID": 9979913,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183589004,
+                "ProblemType": 2,
+                "template_id": 9979913,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>在向西方学习的过程中,戊戌变法区别于洋务运动的地方有()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "B",
+                    "C",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>学习西方的科学技术</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>学习西方的政治制度</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>宣传自由平等和社会进化观念,批判封建君权和封建纲常伦理</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>主张用君主立宪制度取代君主专制制度</p>"
+                    }
+                ],
+                "Version": "10e64f1336e14729b07b3da5d8469ca2",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183589005,
+                "max_retry": 1,
+                "TemplateID": 9979915,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183589005,
+                "ProblemType": 2,
+                "template_id": 9979915,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "<p>十九世纪下半叶,以自强求富为目标的洋务运动历时30年,其最终失败的重要原因是()</p>",
+                "Type": "MultipleChoice",
+                "data": {},
+                "Score": 2,
+                "index": 0,
+                "score": 2,
+                "Answer": [
+                    "A",
+                    "B",
+                    "D"
+                ],
+                "Remark": "",
+                "Options": [
+                    {
+                        "key": "A",
+                        "value": "<p>指导思想的封建性</p>"
+                    },
+                    {
+                        "key": "B",
+                        "value": "<p>对外具有依赖性</p>"
+                    },
+                    {
+                        "key": "C",
+                        "value": "<p>资金人才的匮乏性</p>"
+                    },
+                    {
+                        "key": "D",
+                        "value": "<p>洋务企业管理的腐朽性</p>"
+                    }
+                ],
+                "Version": "c566ccc4e7314f70a0ee2d7d6bc4242a",
+                "TypeText": "多选题",
+                "HalfScore": 0,
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183589006,
+                "max_retry": 1,
+                "TemplateID": 9979917,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183589006,
+                "ProblemType": 2,
+                "template_id": 9979917,
+                "awardingRule": 0,
+                "scope_of_question_answer": 0
+            },
+            {
+                "Body": "请简述在本章节有哪几个阶级对国家进行的早期探索,及进行的活动(运动)名称。\n\n\n\n  \n\n",
+                "Type": "ShortAnswer",
+                "data": {},
+                "Score": 22,
+                "index": 0,
+                "score": 22,
+                "Answer": "",
+                "Remark": "",
+                "Version": "ff8f7dbcad044dcaa0c96e05160cf706",
+                "TypeText": "主观题",
+                "HasRemark": false,
+                "LibraryID": 122934,
+                "ProblemID": 183589007,
+                "max_retry": 1,
+                "TemplateID": 19685919,
+                "difficulty": 1,
+                "library_id": 122934,
+                "problem_id": 183589007,
+                "ProblemType": 5,
+                "template_id": 19685919,
+                "AllowResults": [
+                    "text",
+                    "pic",
+                    "file"
+                ],
+                "review_detail": {},
+                "scope_of_question_answer": 0
+            }
+        ],
+        "has_problem_dict": false,
+        "font": "",
+        "title": "第三专题"
+    }
+}
